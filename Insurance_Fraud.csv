@@ -1,0 +1,1001 @@
+insured_sex,capital-loss,incident_type,collision_type,incident_severity,authorities_contacted,incident_hour_of_the_day,number_of_vehicles_involved,bodily_injuries,witnesses,total_claim_amount,fraud_reported,age_group,months_as_customer_groups,policy_annual_premium_groups
+MALE,0,Single Vehicle Collision,Side Collision,Major Damage,Police,5,1,1,2,71610,Y,46-50,301-350,medium
+MALE,0,Vehicle Theft,?,Minor Damage,Police,8,1,0,0,5070,Y,41-45,201-250,medium
+FEMALE,0,Multi-vehicle Collision,Rear Collision,Minor Damage,Police,7,3,2,3,34650,N,26-30,101-150,medium
+FEMALE,-62400,Single Vehicle Collision,Front Collision,Major Damage,Police,5,1,1,2,63400,Y,41-45,251-300,medium
+MALE,-46000,Vehicle Theft,?,Minor Damage,None,20,1,0,1,6500,N,41-45,201-250,high
+FEMALE,0,Multi-vehicle Collision,Rear Collision,Major Damage,Fire,19,3,0,2,64100,Y,36-40,251-300,medium
+MALE,-77000,Multi-vehicle Collision,Front Collision,Minor Damage,Police,0,3,0,0,78650,Y,31-35,101-150,medium
+MALE,0,Multi-vehicle Collision,Front Collision,Total Loss,Police,23,3,2,2,51590,N,36-40,151-200,medium
+FEMALE,0,Single Vehicle Collision,Front Collision,Total Loss,Police,21,1,1,1,27700,N,31-35,0-50,medium
+MALE,-39300,Single Vehicle Collision,Rear Collision,Total Loss,Other,14,1,2,1,42300,N,41-45,201-250,medium
+FEMALE,0,Single Vehicle Collision,Front Collision,Total Loss,Police,22,1,2,2,87010,N,41-45,201-250,medium
+FEMALE,-51000,Multi-vehicle Collision,Front Collision,Major Damage,Fire,21,3,1,2,114920,N,61-65,451-500,medium
+MALE,0,Single Vehicle Collision,Rear Collision,Total Loss,Ambulance,9,1,1,0,56520,Y,21-25,51-100,medium
+FEMALE,-32800,Parked Car,?,Minor Damage,None,5,1,1,1,7280,N,31-35,101-150,low
+FEMALE,-55500,Single Vehicle Collision,Rear Collision,Total Loss,Police,12,1,0,2,46200,Y,36-40,151-200,medium
+FEMALE,0,Multi-vehicle Collision,Side Collision,Major Damage,Other,12,4,0,0,63120,Y,56-60,451-500,medium
+MALE,0,Multi-vehicle Collision,Rear Collision,Major Damage,Other,0,3,1,2,52110,N,26-30,51-100,medium
+MALE,0,Single Vehicle Collision,Side Collision,Total Loss,Police,9,1,0,2,77880,N,31-35,101-150,low
+FEMALE,-37800,Single Vehicle Collision,Side Collision,Total Loss,Other,19,1,1,0,72930,Y,36-40,151-200,medium
+FEMALE,-27300,Multi-vehicle Collision,Side Collision,Major Damage,Police,8,3,2,0,60400,Y,36-40,201-250,medium
+MALE,0,Multi-vehicle Collision,Rear Collision,Minor Damage,Police,20,3,1,0,47160,Y,61-65,451-500,medium
+FEMALE,0,Multi-vehicle Collision,Side Collision,Total Loss,Police,15,3,1,2,37840,N,41-45,201-250,low
+MALE,-68200,Multi-vehicle Collision,Rear Collision,Major Damage,Ambulance,20,3,0,0,71520,Y,51-55,351-400,low
+MALE,-31000,Single Vehicle Collision,Front Collision,Total Loss,Ambulance,15,1,2,2,98160,Y,51-55,401-450,medium
+MALE,-53500,Single Vehicle Collision,Rear Collision,Minor Damage,Other,6,1,1,3,77880,N,36-40,201-250,low
+MALE,0,Multi-vehicle Collision,Rear Collision,Major Damage,Other,16,3,1,3,71500,Y,31-35,0-50,medium
+MALE,-29200,Parked Car,?,Minor Damage,Police,4,1,1,3,9020,N,41-45,251-300,medium
+MALE,-30200,Vehicle Theft,?,Minor Damage,None,5,1,2,1,5720,Y,31-35,201-250,low
+FEMALE,-55600,Single Vehicle Collision,Side Collision,Minor Damage,Other,21,1,1,0,69840,Y,36-40,201-250,medium
+FEMALE,0,Single Vehicle Collision,Rear Collision,Minor Damage,Police,5,1,2,2,91650,N,41-45,251-300,medium
+MALE,0,Multi-vehicle Collision,Side Collision,Major Damage,Ambulance,22,4,0,0,75600,Y,21-25,51-100,low
+MALE,0,Multi-vehicle Collision,Side Collision,Major Damage,Police,10,3,2,2,67140,Y,36-40,151-200,medium
+FEMALE,0,Multi-vehicle Collision,Front Collision,Total Loss,Police,16,3,2,3,29790,N,31-35,151-200,medium
+MALE,-64000,Multi-vehicle Collision,Front Collision,Major Damage,Ambulance,1,3,1,2,77110,N,26-30,101-150,high
+MALE,0,Single Vehicle Collision,Side Collision,Total Loss,Fire,17,1,0,1,64800,N,36-40,151-200,medium
+MALE,-49200,Single Vehicle Collision,Front Collision,Major Damage,Other,15,1,2,0,53100,Y,31-35,151-200,medium
+FEMALE,0,Single Vehicle Collision,Rear Collision,Total Loss,Police,3,1,1,1,60200,Y,26-30,51-100,low
+FEMALE,0,Parked Car,?,Minor Damage,None,16,1,1,1,5330,N,46-50,301-350,medium
+FEMALE,0,Multi-vehicle Collision,Rear Collision,Major Damage,Police,4,3,2,0,62300,Y,51-55,401-450,medium
+MALE,0,Single Vehicle Collision,Front Collision,Major Damage,Ambulance,4,1,0,3,60170,Y,36-40,201-250,medium
+MALE,-55700,Single Vehicle Collision,Rear Collision,Minor Damage,Ambulance,19,1,2,2,40000,N,26-30,51-100,medium
+MALE,-24100,Single Vehicle Collision,Side Collision,Major Damage,Police,1,1,1,1,97080,Y,31-35,101-150,high
+FEMALE,-67400,Multi-vehicle Collision,Side Collision,Minor Damage,Other,17,3,1,0,51660,Y,21-25,0-50,medium
+FEMALE,-60200,Single Vehicle Collision,Rear Collision,Total Loss,Other,23,1,2,2,51120,N,26-30,101-150,low
+MALE,-28700,Single Vehicle Collision,Front Collision,Minor Damage,Other,14,1,0,2,56400,N,41-45,251-300,medium
+FEMALE,0,Multi-vehicle Collision,Rear Collision,Total Loss,Other,17,3,2,3,55120,N,36-40,251-300,medium
+FEMALE,0,Multi-vehicle Collision,Rear Collision,Total Loss,Fire,11,3,1,1,77110,N,31-35,151-200,medium
+MALE,0,Multi-vehicle Collision,Front Collision,Major Damage,Fire,19,3,2,1,62800,Y,46-50,351-400,medium
+FEMALE,0,Vehicle Theft,?,Trivial Damage,Police,5,1,2,0,7290,Y,31-35,151-200,medium
+FEMALE,-40300,Single Vehicle Collision,Rear Collision,Total Loss,Other,19,1,0,0,76600,Y,31-35,201-250,medium
+MALE,0,Multi-vehicle Collision,Front Collision,Minor Damage,Fire,19,3,0,3,81800,N,56-60,401-450,medium
+FEMALE,0,Vehicle Theft,?,Trivial Damage,None,4,1,1,2,7260,N,26-30,51-100,medium
+MALE,0,Vehicle Theft,?,Minor Damage,None,8,1,2,1,4300,N,36-40,201-250,high
+FEMALE,-46500,Multi-vehicle Collision,Side Collision,Major Damage,Police,7,3,1,0,70510,Y,36-40,201-250,medium
+MALE,-39600,Parked Car,?,Minor Damage,Police,5,1,0,1,2640,N,36-40,201-250,medium
+MALE,0,Single Vehicle Collision,Rear Collision,Minor Damage,Fire,3,1,1,2,78900,N,26-30,0-50,medium
+FEMALE,-55000,Multi-vehicle Collision,Front Collision,Major Damage,Fire,12,3,2,3,56430,N,56-60,451-500,medium
+FEMALE,0,Parked Car,?,Minor Damage,None,19,1,1,3,2400,N,31-35,51-100,medium
+MALE,-45800,Single Vehicle Collision,Front Collision,Total Loss,Ambulance,22,1,0,1,65790,N,36-40,0-50,medium
+FEMALE,-58500,Multi-vehicle Collision,Side Collision,Minor Damage,Police,12,3,1,1,62920,N,36-40,151-200,low
+MALE,0,Multi-vehicle Collision,Rear Collision,Major Damage,Police,15,3,2,1,69480,Y,31-35,151-200,low
+MALE,0,Multi-vehicle Collision,Side Collision,Total Loss,Other,23,3,0,3,44280,N,41-45,251-300,medium
+MALE,-49500,Single Vehicle Collision,Side Collision,Minor Damage,Other,12,1,0,3,56300,N,31-35,101-150,low
+MALE,-49000,Multi-vehicle Collision,Front Collision,Major Damage,Fire,20,3,2,2,68520,Y,41-45,201-250,high
+MALE,0,Multi-vehicle Collision,Rear Collision,Total Loss,Fire,16,3,0,0,59130,Y,41-45,301-350,high
+FEMALE,0,Multi-vehicle Collision,Front Collision,Minor Damage,Ambulance,6,3,2,2,82320,Y,36-40,251-300,medium
+FEMALE,-91200,Single Vehicle Collision,Side Collision,Minor Damage,Fire,12,1,0,1,89700,Y,31-35,101-150,medium
+FEMALE,0,Multi-vehicle Collision,Side Collision,Minor Damage,Fire,17,3,1,1,33930,N,61-65,451-500,low
+MALE,-66200,Single Vehicle Collision,Front Collision,Major Damage,Ambulance,8,1,0,3,68530,N,26-30,101-150,medium
+MALE,-51500,Parked Car,?,Minor Damage,None,13,1,0,1,4300,N,46-50,351-400,medium
+FEMALE,-50000,Multi-vehicle Collision,Side Collision,Major Damage,Other,12,2,2,3,68310,Y,41-45,251-300,medium
+FEMALE,-50300,Single Vehicle Collision,Front Collision,Total Loss,Other,7,1,0,2,61290,Y,41-45,201-250,medium
+FEMALE,0,Single Vehicle Collision,Rear Collision,Minor Damage,Ambulance,10,1,1,2,30100,N,41-45,201-250,low
+FEMALE,-42900,Multi-vehicle Collision,Rear Collision,Minor Damage,Fire,7,3,2,0,57120,Y,36-40,201-250,high
+FEMALE,0,Multi-vehicle Collision,Side Collision,Minor Damage,Ambulance,18,3,1,0,42930,Y,36-40,201-250,medium
+FEMALE,0,Multi-vehicle Collision,Front Collision,Total Loss,Ambulance,22,3,2,0,51210,Y,31-35,101-150,medium
+FEMALE,-19700,Multi-vehicle Collision,Front Collision,Minor Damage,Fire,18,3,1,1,89400,N,41-45,251-300,medium
+MALE,0,Multi-vehicle Collision,Front Collision,Total Loss,Police,22,3,0,2,59730,N,46-50,301-350,medium
+FEMALE,-45000,Vehicle Theft,?,Minor Damage,None,15,1,2,2,8060,N,36-40,201-250,medium
+FEMALE,0,Single Vehicle Collision,Rear Collision,Major Damage,Fire,16,1,1,2,72200,Y,36-40,201-250,low
+MALE,-40600,Multi-vehicle Collision,Side Collision,Minor Damage,Ambulance,6,3,1,2,50800,N,31-35,101-150,medium
+FEMALE,0,Vehicle Theft,?,Trivial Damage,None,10,1,2,1,6600,N,36-40,251-300,medium
+MALE,0,Vehicle Theft,?,Minor Damage,Police,3,1,2,2,7500,N,26-30,51-100,medium
+MALE,-80600,Vehicle Theft,?,Trivial Damage,None,13,1,0,3,6490,N,31-35,201-250,medium
+MALE,-44200,Multi-vehicle Collision,Side Collision,Major Damage,Ambulance,16,2,2,3,60940,Y,46-50,251-300,low
+MALE,0,Multi-vehicle Collision,Front Collision,Major Damage,Fire,13,3,0,1,58300,N,41-45,251-300,high
+FEMALE,0,Multi-vehicle Collision,Front Collision,Minor Damage,Other,9,3,2,1,68400,N,31-35,151-200,low
+FEMALE,0,Single Vehicle Collision,Side Collision,Total Loss,Fire,2,1,2,1,64240,N,31-35,101-150,high
+FEMALE,-78600,Parked Car,?,Trivial Damage,None,9,1,0,1,4700,N,36-40,0-50,medium
+FEMALE,-56100,Multi-vehicle Collision,Side Collision,Major Damage,Other,12,3,2,0,45120,Y,21-25,0-50,medium
+FEMALE,0,Multi-vehicle Collision,Front Collision,Total Loss,Fire,12,2,1,1,66950,N,26-30,101-150,medium
+FEMALE,-62400,Single Vehicle Collision,Side Collision,Major Damage,Police,14,1,0,3,98340,Y,21-25,51-100,medium
+MALE,0,Parked Car,?,Trivial Damage,None,9,1,0,1,5900,N,41-45,201-250,medium
+FEMALE,-20800,Multi-vehicle Collision,Front Collision,Major Damage,Ambulance,3,3,1,1,70680,N,41-45,201-250,medium
+FEMALE,0,Multi-vehicle Collision,Rear Collision,Total Loss,Ambulance,21,3,1,0,93720,Y,41-45,251-300,high
+FEMALE,-58400,Vehicle Theft,?,Minor Damage,None,5,1,2,0,6930,Y,21-25,51-100,medium
+FEMALE,0,Single Vehicle Collision,Side Collision,Major Damage,Fire,11,1,0,3,72930,Y,46-50,301-350,high
+MALE,-71700,Multi-vehicle Collision,Rear Collision,Minor Damage,Other,4,4,1,2,64890,Y,21-25,0-50,medium
+FEMALE,0,Parked Car,?,Trivial Damage,None,6,1,1,2,5400,N,46-50,301-350,medium
+MALE,0,Vehicle Theft,?,Trivial Damage,None,10,1,0,0,5600,Y,41-45,201-250,low
+FEMALE,-72300,Single Vehicle Collision,Rear Collision,Minor Damage,Police,23,1,0,0,79300,Y,41-45,251-300,medium
+FEMALE,0,Single Vehicle Collision,Side Collision,Major Damage,Police,13,1,1,0,52800,Y,26-30,51-100,medium
+FEMALE,-31700,Multi-vehicle Collision,Front Collision,Minor Damage,Fire,16,3,2,3,28800,N,41-45,251-300,medium
+FEMALE,-58100,Parked Car,?,Minor Damage,Police,3,1,1,1,2970,N,31-35,151-200,medium
+MALE,0,Multi-vehicle Collision,Side Collision,Total Loss,Police,15,3,0,0,93480,Y,51-55,351-400,medium
+MALE,-24300,Vehicle Theft,?,Minor Damage,None,4,1,1,3,4320,N,46-50,301-350,medium
+FEMALE,-56400,Multi-vehicle Collision,Rear Collision,Major Damage,Police,6,3,0,2,79800,Y,61-65,451-500,medium
+FEMALE,-57000,Multi-vehicle Collision,Front Collision,Major Damage,Ambulance,22,2,1,0,74200,Y,26-30,101-150,medium
+FEMALE,0,Single Vehicle Collision,Front Collision,Major Damage,Fire,1,1,0,0,70590,Y,46-50,301-350,medium
+FEMALE,-47500,Multi-vehicle Collision,Rear Collision,Major Damage,Fire,16,3,0,3,60940,Y,31-35,51-100,medium
+FEMALE,0,Single Vehicle Collision,Rear Collision,Minor Damage,Police,18,1,1,2,74700,N,41-45,251-300,medium
+MALE,-38800,Single Vehicle Collision,Front Collision,Major Damage,Fire,0,1,0,0,70000,Y,56-60,451-500,medium
+MALE,-41000,Multi-vehicle Collision,Rear Collision,Total Loss,Other,12,3,2,0,81070,Y,41-45,201-250,medium
+MALE,-40600,Multi-vehicle Collision,Side Collision,Major Damage,Other,13,2,1,1,57720,N,31-35,151-200,medium
+MALE,0,Vehicle Theft,?,Minor Damage,None,9,1,1,1,7080,N,51-55,401-450,medium
+MALE,-56800,Multi-vehicle Collision,Side Collision,Total Loss,Other,14,3,0,1,47700,Y,46-50,251-300,medium
+FEMALE,-63100,Single Vehicle Collision,Rear Collision,Minor Damage,Police,16,1,0,3,51260,N,31-35,101-150,medium
+MALE,-36200,Multi-vehicle Collision,Side Collision,Major Damage,Police,20,3,2,2,70400,Y,41-45,201-250,medium
+FEMALE,0,Single Vehicle Collision,Rear Collision,Minor Damage,Fire,4,1,1,3,90000,N,36-40,151-200,medium
+FEMALE,0,Multi-vehicle Collision,Rear Collision,Minor Damage,Police,7,3,0,1,72820,N,36-40,251-300,low
+MALE,0,Single Vehicle Collision,Side Collision,Minor Damage,Fire,22,1,2,0,69300,Y,41-45,251-300,medium
+FEMALE,-53700,Single Vehicle Collision,Front Collision,Major Damage,Ambulance,11,1,2,1,76560,Y,36-40,201-250,high
+FEMALE,0,Single Vehicle Collision,Front Collision,Major Damage,Ambulance,7,1,0,1,55440,Y,36-40,201-250,medium
+FEMALE,0,Multi-vehicle Collision,Front Collision,Total Loss,Other,0,4,1,0,77130,Y,21-25,0-50,medium
+FEMALE,0,Single Vehicle Collision,Rear Collision,Total Loss,Ambulance,1,1,1,1,42000,N,31-35,201-250,medium
+MALE,-69700,Multi-vehicle Collision,Rear Collision,Total Loss,Ambulance,12,3,2,3,36300,N,36-40,201-250,medium
+MALE,-32100,Single Vehicle Collision,Side Collision,Total Loss,Other,8,1,0,0,40320,Y,36-40,151-200,high
+FEMALE,0,Parked Car,?,Minor Damage,Police,9,1,2,0,3960,Y,31-35,151-200,medium
+MALE,-47300,Single Vehicle Collision,Front Collision,Major Damage,Fire,22,1,0,3,63840,Y,41-45,251-300,medium
+FEMALE,0,Multi-vehicle Collision,Front Collision,Major Damage,Fire,0,3,1,2,44730,Y,26-30,51-100,medium
+MALE,0,Multi-vehicle Collision,Front Collision,Minor Damage,Other,0,3,1,2,84720,N,41-45,251-300,medium
+MALE,0,Multi-vehicle Collision,Front Collision,Major Damage,Other,3,3,2,2,61500,N,36-40,201-250,low
+FEMALE,-54800,Multi-vehicle Collision,Front Collision,Major Damage,Ambulance,21,3,0,1,51000,N,26-30,101-150,low
+FEMALE,-45200,Single Vehicle Collision,Side Collision,Total Loss,Police,0,1,2,1,46800,N,31-35,0-50,high
+MALE,-65600,Single Vehicle Collision,Side Collision,Minor Damage,Ambulance,16,1,1,1,78120,N,31-35,51-100,high
+FEMALE,0,Single Vehicle Collision,Rear Collision,Major Damage,Police,14,1,1,2,69200,Y,31-35,151-200,medium
+FEMALE,-20400,Vehicle Theft,?,Minor Damage,Police,9,1,0,0,3690,Y,36-40,201-250,medium
+FEMALE,0,Multi-vehicle Collision,Rear Collision,Minor Damage,Fire,9,3,0,3,65500,N,26-30,101-150,medium
+FEMALE,-77500,Multi-vehicle Collision,Rear Collision,Minor Damage,Fire,21,3,1,2,76120,N,46-50,301-350,medium
+FEMALE,-43200,Multi-vehicle Collision,Front Collision,Total Loss,Other,19,3,0,2,73560,N,31-35,101-150,medium
+MALE,0,Single Vehicle Collision,Rear Collision,Total Loss,Police,2,1,0,1,52030,N,31-35,201-250,medium
+MALE,-49000,Vehicle Theft,?,Trivial Damage,None,9,1,2,3,5170,N,41-45,251-300,low
+MALE,-28700,Parked Car,?,Minor Damage,None,5,1,2,1,8190,N,31-35,101-150,medium
+MALE,-56200,Single Vehicle Collision,Rear Collision,Major Damage,Ambulance,14,1,2,3,70800,Y,26-30,0-50,medium
+FEMALE,0,Multi-vehicle Collision,Rear Collision,Total Loss,Police,20,3,0,3,45630,N,31-35,101-150,medium
+FEMALE,-57900,Single Vehicle Collision,Front Collision,Major Damage,Police,18,1,2,1,99320,Y,56-60,401-450,low
+MALE,-57100,Multi-vehicle Collision,Side Collision,Major Damage,Fire,13,3,2,0,64000,Y,41-45,201-250,medium
+FEMALE,0,Single Vehicle Collision,Front Collision,Minor Damage,Fire,21,1,1,1,47300,N,36-40,201-250,medium
+MALE,-38200,Single Vehicle Collision,Rear Collision,Major Damage,Other,14,1,2,3,71680,Y,26-30,51-100,medium
+FEMALE,0,Single Vehicle Collision,Side Collision,Major Damage,Other,1,1,1,0,112320,Y,41-45,201-250,low
+FEMALE,0,Single Vehicle Collision,Side Collision,Total Loss,Other,17,1,1,0,82720,Y,31-35,101-150,medium
+MALE,0,Multi-vehicle Collision,Rear Collision,Major Damage,Fire,4,3,2,1,48060,N,41-45,301-350,medium
+MALE,-44600,Multi-vehicle Collision,Rear Collision,Total Loss,Police,23,3,1,3,63570,Y,31-35,101-150,medium
+FEMALE,0,Multi-vehicle Collision,Rear Collision,Total Loss,Fire,13,3,2,3,63240,N,51-55,401-450,medium
+FEMALE,-44500,Multi-vehicle Collision,Rear Collision,Minor Damage,Ambulance,20,3,1,3,54240,Y,31-35,101-150,medium
+MALE,0,Single Vehicle Collision,Front Collision,Major Damage,Police,16,1,2,3,37280,Y,46-50,351-400,medium
+MALE,0,Multi-vehicle Collision,Rear Collision,Minor Damage,Police,10,3,2,1,72100,N,61-65,451-500,medium
+FEMALE,0,Parked Car,?,Minor Damage,None,8,1,2,3,6500,N,56-60,401-450,medium
+MALE,0,Multi-vehicle Collision,Front Collision,Total Loss,Ambulance,17,3,2,0,78240,Y,36-40,0-50,medium
+FEMALE,-66900,Vehicle Theft,?,Minor Damage,Police,9,1,2,0,6200,Y,26-30,101-150,medium
+FEMALE,-82400,Parked Car,?,Minor Damage,Police,0,1,2,3,6160,N,36-40,201-250,medium
+FEMALE,-54000,Single Vehicle Collision,Front Collision,Total Loss,Ambulance,12,1,2,0,76050,Y,46-50,251-300,medium
+FEMALE,-59100,Multi-vehicle Collision,Side Collision,Total Loss,Ambulance,20,2,2,1,86060,N,46-50,301-350,medium
+FEMALE,-59300,Single Vehicle Collision,Front Collision,Major Damage,Fire,3,1,2,0,107900,Y,26-30,101-150,medium
+FEMALE,-31400,Multi-vehicle Collision,Rear Collision,Total Loss,Fire,18,3,2,0,99990,Y,31-35,101-150,medium
+FEMALE,0,Multi-vehicle Collision,Side Collision,Minor Damage,Ambulance,4,3,2,2,61380,N,26-30,101-150,medium
+FEMALE,-26900,Single Vehicle Collision,Rear Collision,Major Damage,Fire,18,1,2,1,71280,Y,26-30,0-50,high
+MALE,-51100,Multi-vehicle Collision,Front Collision,Minor Damage,Ambulance,18,3,0,0,64000,Y,41-45,301-350,medium
+FEMALE,-50000,Parked Car,?,Trivial Damage,Police,7,1,0,1,5940,N,46-50,251-300,medium
+MALE,0,Parked Car,?,Minor Damage,None,18,1,1,0,6700,Y,36-40,0-50,medium
+MALE,0,Multi-vehicle Collision,Rear Collision,Minor Damage,Police,23,3,0,0,51740,Y,41-45,201-250,medium
+MALE,0,Single Vehicle Collision,Rear Collision,Total Loss,Ambulance,1,1,0,1,53600,Y,26-30,101-150,medium
+MALE,-59900,Multi-vehicle Collision,Rear Collision,Total Loss,Other,15,3,1,0,44910,Y,26-30,51-100,medium
+FEMALE,-88300,Multi-vehicle Collision,Front Collision,Major Damage,Fire,2,3,0,2,48100,N,31-35,0-50,medium
+FEMALE,0,Vehicle Theft,?,Trivial Damage,None,3,1,0,1,6100,N,41-45,301-350,medium
+MALE,-41300,Single Vehicle Collision,Rear Collision,Minor Damage,Other,13,1,1,0,79600,Y,46-50,301-350,low
+MALE,0,Single Vehicle Collision,Front Collision,Minor Damage,Ambulance,1,1,1,1,77040,N,31-35,151-200,high
+FEMALE,-45100,Single Vehicle Collision,Rear Collision,Minor Damage,Fire,16,1,0,1,62590,N,41-45,251-300,medium
+FEMALE,-58900,Single Vehicle Collision,Front Collision,Total Loss,Other,0,1,0,1,85150,N,36-40,251-300,low
+MALE,-31700,Vehicle Theft,?,Trivial Damage,None,1,1,2,1,4950,N,36-40,201-250,medium
+MALE,0,Multi-vehicle Collision,Side Collision,Major Damage,Fire,17,3,2,0,51100,Y,36-40,51-100,high
+FEMALE,-22300,Single Vehicle Collision,Side Collision,Minor Damage,Police,13,1,2,3,100800,N,51-55,401-450,medium
+FEMALE,0,Single Vehicle Collision,Side Collision,Total Loss,Police,12,1,2,3,90970,N,26-30,101-150,medium
+MALE,-30300,Single Vehicle Collision,Rear Collision,Minor Damage,Police,11,1,1,1,81840,Y,26-30,51-100,medium
+MALE,0,Single Vehicle Collision,Front Collision,Major Damage,Ambulance,18,1,0,2,54900,N,46-50,301-350,medium
+MALE,-51300,Single Vehicle Collision,Front Collision,Total Loss,Fire,17,1,2,3,88660,Y,31-35,101-150,medium
+FEMALE,-57700,Multi-vehicle Collision,Front Collision,Total Loss,Ambulance,22,3,1,1,18000,N,31-35,151-200,medium
+FEMALE,-39200,Vehicle Theft,?,Minor Damage,Police,9,1,1,3,5500,N,36-40,201-250,medium
+FEMALE,-67900,Multi-vehicle Collision,Rear Collision,Major Damage,Other,11,3,1,0,73920,Y,21-25,51-100,low
+FEMALE,0,Single Vehicle Collision,Rear Collision,Total Loss,Ambulance,11,1,0,2,101860,N,26-30,101-150,low
+MALE,0,Parked Car,?,Minor Damage,None,8,1,0,1,5390,N,56-60,451-500,medium
+MALE,-57500,Single Vehicle Collision,Side Collision,Minor Damage,Police,18,1,1,2,50490,N,36-40,251-300,medium
+FEMALE,0,Single Vehicle Collision,Front Collision,Total Loss,Police,13,1,0,3,55500,N,46-50,351-400,medium
+MALE,-90200,Vehicle Theft,?,Minor Damage,Police,8,1,1,1,7040,N,31-35,0-50,medium
+MALE,0,Multi-vehicle Collision,Rear Collision,Total Loss,Other,9,3,0,1,40160,N,26-30,51-100,medium
+MALE,0,Multi-vehicle Collision,Side Collision,Total Loss,Fire,17,2,2,3,55680,N,41-45,251-300,high
+MALE,0,Vehicle Theft,?,Trivial Damage,Police,3,1,1,1,5300,Y,36-40,201-250,medium
+FEMALE,0,Parked Car,?,Trivial Damage,None,6,1,0,3,5200,N,41-45,201-250,high
+MALE,-32800,Single Vehicle Collision,Front Collision,Major Damage,Ambulance,17,1,2,1,59400,N,46-50,301-350,medium
+FEMALE,0,Vehicle Theft,?,Minor Damage,Police,7,1,1,1,2520,N,41-45,251-300,high
+MALE,0,Vehicle Theft,?,Trivial Damage,Police,9,1,2,1,5760,N,31-35,0-50,medium
+MALE,-13800,Single Vehicle Collision,Rear Collision,Minor Damage,Fire,3,1,2,0,76700,Y,46-50,351-400,high
+FEMALE,0,Parked Car,?,Trivial Damage,Police,6,1,0,2,5920,N,36-40,201-250,medium
+MALE,0,Multi-vehicle Collision,Rear Collision,Major Damage,Fire,7,3,0,3,64350,N,61-65,451-500,medium
+MALE,0,Multi-vehicle Collision,Rear Collision,Total Loss,Ambulance,21,3,1,2,19080,N,36-40,251-300,medium
+FEMALE,-34400,Single Vehicle Collision,Rear Collision,Minor Damage,Police,14,1,2,1,54400,N,41-45,201-250,medium
+FEMALE,-39300,Single Vehicle Collision,Rear Collision,Total Loss,Fire,0,1,1,0,59800,Y,31-35,101-150,low
+MALE,0,Multi-vehicle Collision,Side Collision,Major Damage,Police,14,3,0,3,72000,N,26-30,101-150,medium
+MALE,0,Multi-vehicle Collision,Side Collision,Total Loss,Police,13,4,2,3,65070,N,46-50,351-400,medium
+MALE,-36700,Parked Car,?,Trivial Damage,Police,8,1,0,1,8800,N,51-55,401-450,low
+FEMALE,0,Vehicle Theft,?,Minor Damage,Police,7,1,2,0,6120,Y,21-25,51-100,high
+MALE,0,Vehicle Theft,?,Trivial Damage,None,9,1,1,2,7080,N,36-40,201-250,medium
+MALE,-31400,Multi-vehicle Collision,Side Collision,Minor Damage,Ambulance,12,3,2,3,34320,N,46-50,301-350,high
+FEMALE,0,Multi-vehicle Collision,Side Collision,Major Damage,Other,6,3,1,0,53460,Y,36-40,0-50,medium
+FEMALE,0,Single Vehicle Collision,Side Collision,Total Loss,Other,11,1,1,3,81360,Y,31-35,101-150,medium
+MALE,0,Multi-vehicle Collision,Side Collision,Minor Damage,Ambulance,5,3,1,2,81070,Y,41-45,251-300,medium
+FEMALE,0,Single Vehicle Collision,Front Collision,Minor Damage,Fire,14,1,2,2,63120,N,26-30,51-100,low
+MALE,-39700,Vehicle Theft,?,Trivial Damage,None,17,1,2,1,7200,N,26-30,0-50,medium
+FEMALE,0,Single Vehicle Collision,Rear Collision,Total Loss,Other,0,1,2,3,70290,Y,46-50,301-350,medium
+MALE,0,Multi-vehicle Collision,Side Collision,Minor Damage,Fire,21,3,1,0,60190,Y,41-45,251-300,high
+MALE,-58600,Single Vehicle Collision,Front Collision,Major Damage,Other,18,1,1,2,61380,Y,41-45,251-300,high
+FEMALE,0,Single Vehicle Collision,Front Collision,Minor Damage,Ambulance,17,1,2,2,28100,N,46-50,301-350,medium
+FEMALE,0,Single Vehicle Collision,Side Collision,Total Loss,Fire,19,1,0,0,49060,Y,46-50,301-350,low
+MALE,-72500,Multi-vehicle Collision,Side Collision,Total Loss,Fire,17,3,1,1,57060,N,46-50,351-400,medium
+FEMALE,0,Multi-vehicle Collision,Side Collision,Major Damage,Fire,23,3,0,3,77880,N,36-40,251-300,medium
+MALE,-60500,Single Vehicle Collision,Front Collision,Total Loss,Ambulance,4,1,0,1,73500,N,41-45,251-300,medium
+FEMALE,-37100,Multi-vehicle Collision,Rear Collision,Minor Damage,Other,2,2,2,0,88920,Y,51-55,351-400,medium
+FEMALE,0,Single Vehicle Collision,Front Collision,Major Damage,Other,2,1,0,2,47630,Y,51-55,351-400,medium
+FEMALE,-64000,Multi-vehicle Collision,Front Collision,Total Loss,Fire,10,3,1,3,59040,N,51-55,351-400,high
+FEMALE,-67800,Single Vehicle Collision,Rear Collision,Minor Damage,Other,2,1,0,3,79530,N,36-40,151-200,very high
+FEMALE,-68200,Single Vehicle Collision,Side Collision,Total Loss,Other,18,1,0,2,53680,N,31-35,151-200,medium
+MALE,-55000,Single Vehicle Collision,Side Collision,Minor Damage,Police,18,1,2,3,33550,N,46-50,301-350,medium
+FEMALE,-60200,Multi-vehicle Collision,Side Collision,Total Loss,Other,7,4,2,1,69100,N,41-45,201-250,medium
+MALE,-68700,Multi-vehicle Collision,Rear Collision,Major Damage,Police,19,3,2,0,79750,Y,31-35,151-200,medium
+MALE,-32500,Multi-vehicle Collision,Front Collision,Major Damage,Other,10,3,0,2,53600,Y,26-30,0-50,medium
+MALE,-24400,Multi-vehicle Collision,Side Collision,Minor Damage,Fire,16,3,1,0,76560,Y,51-55,401-450,high
+MALE,0,Single Vehicle Collision,Front Collision,Total Loss,Fire,17,1,1,1,41130,N,31-35,101-150,medium
+MALE,0,Multi-vehicle Collision,Rear Collision,Total Loss,Fire,2,3,2,3,78650,Y,26-30,101-150,low
+FEMALE,-10600,Single Vehicle Collision,Side Collision,Major Damage,Other,19,1,1,1,71060,N,41-45,251-300,high
+FEMALE,0,Single Vehicle Collision,Front Collision,Minor Damage,Fire,0,1,1,1,38830,N,36-40,151-200,high
+FEMALE,0,Single Vehicle Collision,Front Collision,Major Damage,Fire,16,1,0,0,53500,Y,41-45,251-300,high
+FEMALE,-74500,Single Vehicle Collision,Front Collision,Major Damage,Other,20,1,2,0,73700,Y,36-40,151-200,high
+FEMALE,-53700,Parked Car,?,Trivial Damage,None,10,1,2,1,6300,N,36-40,151-200,low
+FEMALE,-53800,Multi-vehicle Collision,Rear Collision,Total Loss,Ambulance,21,3,2,2,65400,N,36-40,151-200,medium
+MALE,-70300,Vehicle Theft,?,Trivial Damage,None,3,1,1,2,3200,N,26-30,51-100,low
+FEMALE,-24700,Single Vehicle Collision,Rear Collision,Major Damage,Fire,7,1,0,3,75400,Y,51-55,351-400,high
+FEMALE,0,Single Vehicle Collision,Side Collision,Minor Damage,Fire,19,1,0,2,58140,N,26-30,0-50,medium
+FEMALE,-41400,Multi-vehicle Collision,Rear Collision,Total Loss,Ambulance,15,3,0,1,98670,Y,41-45,251-300,medium
+MALE,0,Parked Car,?,Minor Damage,None,7,1,0,3,5900,N,26-30,101-150,very low
+FEMALE,-52600,Single Vehicle Collision,Rear Collision,Major Damage,Fire,19,1,1,3,64100,N,26-30,51-100,medium
+FEMALE,-32500,Multi-vehicle Collision,Rear Collision,Total Loss,Fire,13,2,0,1,55440,Y,26-30,101-150,medium
+MALE,0,Multi-vehicle Collision,Side Collision,Major Damage,Police,2,3,1,2,80850,Y,26-30,101-150,medium
+FEMALE,-44600,Vehicle Theft,?,Trivial Damage,Police,5,1,1,1,7480,N,36-40,251-300,medium
+MALE,-70200,Single Vehicle Collision,Side Collision,Major Damage,Fire,21,1,2,3,53640,Y,61-65,451-500,medium
+FEMALE,0,Multi-vehicle Collision,Rear Collision,Major Damage,Fire,21,3,2,2,63250,Y,21-25,0-50,high
+FEMALE,0,Multi-vehicle Collision,Side Collision,Major Damage,Ambulance,7,3,0,1,59040,N,56-60,451-500,low
+MALE,0,Multi-vehicle Collision,Side Collision,Total Loss,Other,16,3,1,0,50500,Y,36-40,201-250,medium
+MALE,0,Single Vehicle Collision,Side Collision,Major Damage,Police,13,1,0,1,57690,Y,41-45,251-300,medium
+FEMALE,0,Vehicle Theft,?,Trivial Damage,Police,2,1,1,3,5940,N,36-40,251-300,medium
+FEMALE,0,Multi-vehicle Collision,Rear Collision,Major Damage,Fire,19,3,0,2,47790,Y,26-30,101-150,medium
+FEMALE,-47100,Parked Car,?,Trivial Damage,None,17,1,0,1,3850,N,26-30,101-150,high
+MALE,0,Single Vehicle Collision,Front Collision,Major Damage,Police,3,1,2,0,59000,Y,31-35,151-200,medium
+MALE,-33600,Multi-vehicle Collision,Rear Collision,Major Damage,Ambulance,17,3,0,1,70600,Y,41-45,201-250,medium
+MALE,-45000,Multi-vehicle Collision,Side Collision,Minor Damage,Police,5,3,1,1,61490,N,36-40,251-300,medium
+FEMALE,-51500,Single Vehicle Collision,Side Collision,Minor Damage,Police,9,1,1,0,57640,Y,26-30,51-100,medium
+FEMALE,0,Vehicle Theft,?,Trivial Damage,Police,9,1,1,0,6890,Y,56-60,401-450,medium
+MALE,-33100,Multi-vehicle Collision,Side Collision,Major Damage,Fire,9,3,2,2,53280,Y,41-45,251-300,high
+FEMALE,-46900,Multi-vehicle Collision,Rear Collision,Minor Damage,Fire,22,3,0,0,78300,Y,26-30,0-50,low
+MALE,-61000,Multi-vehicle Collision,Rear Collision,Major Damage,Ambulance,15,3,0,3,41490,N,36-40,151-200,medium
+FEMALE,-53300,Multi-vehicle Collision,Front Collision,Total Loss,Fire,14,3,2,3,68970,N,36-40,201-250,medium
+MALE,0,Multi-vehicle Collision,Rear Collision,Minor Damage,Police,6,3,2,0,85300,Y,51-55,351-400,high
+FEMALE,0,Parked Car,?,Minor Damage,None,6,1,0,0,3080,Y,36-40,251-300,medium
+MALE,0,Multi-vehicle Collision,Front Collision,Major Damage,Police,22,4,2,0,71760,Y,46-50,301-350,medium
+FEMALE,0,Multi-vehicle Collision,Rear Collision,Minor Damage,Ambulance,14,3,1,0,59700,Y,26-30,101-150,low
+FEMALE,-19800,Multi-vehicle Collision,Front Collision,Minor Damage,Fire,16,3,0,2,64920,N,36-40,201-250,medium
+FEMALE,-75700,Multi-vehicle Collision,Front Collision,Major Damage,Ambulance,10,3,0,1,37530,N,41-45,251-300,medium
+MALE,-63400,Multi-vehicle Collision,Side Collision,Total Loss,Ambulance,9,3,1,2,64080,N,41-45,301-350,medium
+MALE,0,Single Vehicle Collision,Rear Collision,Minor Damage,Other,4,1,1,0,60390,Y,41-45,251-300,medium
+FEMALE,0,Multi-vehicle Collision,Side Collision,Major Damage,Police,6,3,0,1,64350,Y,31-35,101-150,low
+FEMALE,0,Multi-vehicle Collision,Side Collision,Minor Damage,Police,15,3,2,1,70900,N,36-40,0-50,medium
+FEMALE,-83900,Multi-vehicle Collision,Side Collision,Minor Damage,Fire,12,3,1,3,46560,N,36-40,251-300,medium
+FEMALE,-37600,Vehicle Theft,?,Trivial Damage,Police,3,1,2,1,4730,Y,31-35,151-200,medium
+FEMALE,0,Vehicle Theft,?,Minor Damage,Police,14,1,0,0,6820,Y,36-40,201-250,medium
+MALE,-27600,Single Vehicle Collision,Rear Collision,Major Damage,Police,10,1,0,2,59900,Y,56-60,451-500,medium
+FEMALE,-49400,Multi-vehicle Collision,Side Collision,Major Damage,Police,17,3,1,3,79560,N,36-40,151-200,medium
+FEMALE,-40900,Single Vehicle Collision,Front Collision,Total Loss,Other,8,1,0,1,70290,N,31-35,101-150,medium
+MALE,0,Multi-vehicle Collision,Rear Collision,Total Loss,Ambulance,14,3,2,0,63910,Y,31-35,151-200,medium
+FEMALE,0,Vehicle Theft,?,Trivial Damage,None,6,1,1,0,6400,Y,36-40,201-250,medium
+FEMALE,0,Single Vehicle Collision,Rear Collision,Major Damage,Ambulance,6,1,1,2,66780,Y,21-25,51-100,medium
+FEMALE,-33300,Parked Car,?,Minor Damage,Police,8,1,0,2,8760,N,36-40,0-50,medium
+MALE,0,Single Vehicle Collision,Side Collision,Major Damage,Ambulance,13,1,0,1,94160,N,41-45,251-300,medium
+MALE,-32300,Multi-vehicle Collision,Front Collision,Total Loss,Ambulance,0,3,0,2,51570,N,36-40,51-100,low
+FEMALE,-15700,Multi-vehicle Collision,Rear Collision,Major Damage,Fire,14,3,1,0,52700,Y,31-35,0-50,medium
+MALE,-48300,Single Vehicle Collision,Side Collision,Minor Damage,Fire,13,1,2,2,101010,N,31-35,151-200,medium
+MALE,-51800,Multi-vehicle Collision,Rear Collision,Minor Damage,Police,16,4,1,2,53400,Y,36-40,151-200,medium
+FEMALE,-54600,Single Vehicle Collision,Side Collision,Total Loss,Fire,13,1,1,2,72120,N,31-35,101-150,medium
+MALE,-58100,Multi-vehicle Collision,Front Collision,Minor Damage,Police,15,3,2,2,77100,N,41-45,201-250,low
+FEMALE,0,Parked Car,?,Trivial Damage,Police,3,1,2,3,3300,N,36-40,251-300,low
+FEMALE,0,Parked Car,?,Minor Damage,None,7,1,1,0,5940,Y,31-35,201-250,medium
+MALE,0,Multi-vehicle Collision,Rear Collision,Major Damage,Other,16,2,1,0,63720,Y,26-30,101-150,medium
+FEMALE,-39300,Vehicle Theft,?,Trivial Damage,Police,15,1,1,3,7680,N,41-45,251-300,low
+MALE,-82700,Multi-vehicle Collision,Side Collision,Total Loss,Police,21,3,1,2,93730,N,31-35,101-150,medium
+MALE,-55600,Multi-vehicle Collision,Rear Collision,Major Damage,Police,23,3,0,2,87300,N,41-45,51-100,medium
+MALE,-35200,Parked Car,?,Trivial Damage,Police,5,1,0,2,5670,N,36-40,251-300,medium
+MALE,-77600,Multi-vehicle Collision,Rear Collision,Minor Damage,Other,15,3,0,0,65800,Y,46-50,251-300,medium
+FEMALE,-57100,Single Vehicle Collision,Front Collision,Major Damage,Other,14,1,2,1,36720,Y,31-35,151-200,low
+FEMALE,0,Single Vehicle Collision,Side Collision,Major Damage,Fire,1,1,1,1,52800,Y,26-30,101-150,medium
+FEMALE,0,Multi-vehicle Collision,Rear Collision,Total Loss,Fire,14,3,1,2,59100,Y,36-40,151-200,medium
+MALE,-53800,Multi-vehicle Collision,Rear Collision,Total Loss,Other,17,3,1,1,77440,N,36-40,151-200,medium
+MALE,-39700,Multi-vehicle Collision,Side Collision,Total Loss,Fire,20,3,2,2,45700,N,36-40,151-200,medium
+FEMALE,0,Multi-vehicle Collision,Rear Collision,Major Damage,Other,10,3,2,2,80740,Y,41-45,251-300,medium
+MALE,-22200,Multi-vehicle Collision,Front Collision,Major Damage,Ambulance,3,3,0,3,31350,Y,26-30,0-50,low
+FEMALE,-38600,Single Vehicle Collision,Side Collision,Total Loss,Other,0,1,0,0,35000,Y,31-35,151-200,medium
+MALE,0,Multi-vehicle Collision,Side Collision,Total Loss,Police,10,3,2,2,68000,N,56-60,451-500,medium
+FEMALE,0,Multi-vehicle Collision,Side Collision,Minor Damage,Other,13,3,2,0,84500,Y,26-30,51-100,medium
+FEMALE,-39500,Single Vehicle Collision,Rear Collision,Minor Damage,Police,14,1,2,1,75500,N,41-45,251-300,medium
+MALE,0,Multi-vehicle Collision,Side Collision,Total Loss,Other,22,3,1,3,90600,N,46-50,251-300,medium
+FEMALE,-63900,Multi-vehicle Collision,Side Collision,Total Loss,Ambulance,8,3,1,1,64320,N,41-45,251-300,medium
+FEMALE,0,Multi-vehicle Collision,Rear Collision,Minor Damage,Police,1,3,1,0,31700,Y,31-35,0-50,low
+MALE,-73900,Single Vehicle Collision,Side Collision,Major Damage,Other,19,1,0,1,74280,Y,26-30,51-100,medium
+FEMALE,-30200,Single Vehicle Collision,Front Collision,Total Loss,Fire,17,1,0,2,80520,N,36-40,201-250,high
+MALE,-46800,Multi-vehicle Collision,Rear Collision,Major Damage,Other,13,3,0,3,63600,N,26-30,101-150,high
+MALE,0,Single Vehicle Collision,Front Collision,Total Loss,Police,4,1,1,2,32800,N,41-45,251-300,high
+FEMALE,0,Multi-vehicle Collision,Rear Collision,Total Loss,Police,14,3,0,2,44190,N,46-50,351-400,low
+MALE,0,Multi-vehicle Collision,Rear Collision,Major Damage,Other,4,2,2,2,50400,Y,26-30,101-150,medium
+MALE,-65400,Multi-vehicle Collision,Side Collision,Total Loss,Police,23,3,1,1,88400,N,51-55,401-450,low
+FEMALE,-42100,Multi-vehicle Collision,Front Collision,Total Loss,Fire,21,3,0,2,66550,N,46-50,301-350,medium
+MALE,0,Multi-vehicle Collision,Rear Collision,Minor Damage,Police,23,3,0,0,65780,Y,46-50,251-300,high
+MALE,0,Multi-vehicle Collision,Side Collision,Major Damage,Other,6,3,0,2,51810,Y,36-40,251-300,medium
+MALE,-27900,Single Vehicle Collision,Front Collision,Major Damage,Other,21,1,1,0,55660,Y,31-35,51-100,high
+MALE,0,Single Vehicle Collision,Side Collision,Major Damage,Fire,23,1,2,3,44640,N,26-30,101-150,medium
+FEMALE,-73600,Multi-vehicle Collision,Front Collision,Major Damage,Ambulance,3,3,1,3,77660,Y,46-50,251-300,medium
+FEMALE,-53600,Parked Car,?,Trivial Damage,None,8,1,2,2,5640,N,21-25,51-100,medium
+FEMALE,0,Parked Car,?,Trivial Damage,None,4,1,2,2,3190,N,26-30,101-150,medium
+MALE,-48700,Single Vehicle Collision,Side Collision,Total Loss,Fire,22,1,0,0,53440,Y,26-30,101-150,medium
+FEMALE,0,Single Vehicle Collision,Rear Collision,Minor Damage,Police,16,1,0,1,65250,N,31-35,101-150,medium
+MALE,-56600,Multi-vehicle Collision,Side Collision,Minor Damage,Fire,14,3,2,1,44280,N,36-40,151-200,medium
+MALE,-53700,Single Vehicle Collision,Rear Collision,Total Loss,Police,13,1,2,0,70290,Y,36-40,151-200,low
+FEMALE,-64300,Single Vehicle Collision,Front Collision,Minor Damage,Other,20,1,1,1,87100,N,26-30,101-150,low
+MALE,-49200,Multi-vehicle Collision,Front Collision,Total Loss,Fire,0,3,1,3,50380,N,31-35,201-250,medium
+FEMALE,-61000,Multi-vehicle Collision,Side Collision,Total Loss,Police,23,3,2,2,64800,Y,41-45,301-350,medium
+FEMALE,0,Single Vehicle Collision,Rear Collision,Minor Damage,Other,13,1,1,3,70400,N,41-45,301-350,medium
+MALE,0,Single Vehicle Collision,Rear Collision,Major Damage,Police,8,1,2,2,57860,Y,26-30,51-100,low
+MALE,0,Vehicle Theft,?,Minor Damage,None,3,1,0,3,6240,N,46-50,301-350,medium
+FEMALE,0,Single Vehicle Collision,Rear Collision,Total Loss,Police,16,1,2,3,66600,Y,36-40,201-250,medium
+MALE,0,Single Vehicle Collision,Side Collision,Minor Damage,Police,19,1,0,2,70920,N,26-30,51-100,high
+MALE,-43800,Single Vehicle Collision,Rear Collision,Minor Damage,Ambulance,0,1,2,0,39480,Y,56-60,401-450,medium
+FEMALE,-74300,Single Vehicle Collision,Front Collision,Total Loss,Other,12,1,2,2,63240,N,41-45,251-300,low
+MALE,0,Multi-vehicle Collision,Side Collision,Total Loss,Other,21,3,1,0,67650,Y,31-35,0-50,high
+FEMALE,-22300,Single Vehicle Collision,Front Collision,Major Damage,Fire,0,1,1,3,74200,Y,36-40,201-250,low
+FEMALE,-73400,Single Vehicle Collision,Side Collision,Minor Damage,Other,22,1,1,3,64900,N,41-45,251-300,medium
+FEMALE,0,Multi-vehicle Collision,Rear Collision,Major Damage,Ambulance,20,3,1,0,35900,Y,41-45,251-300,medium
+FEMALE,-41500,Single Vehicle Collision,Rear Collision,Minor Damage,Fire,0,1,1,3,52200,N,26-30,51-100,medium
+MALE,-83200,Single Vehicle Collision,Front Collision,Minor Damage,Police,20,1,0,2,78000,N,56-60,451-500,medium
+FEMALE,-32800,Multi-vehicle Collision,Front Collision,Minor Damage,Ambulance,1,3,0,0,67200,Y,26-30,51-100,low
+FEMALE,-65600,Single Vehicle Collision,Rear Collision,Total Loss,Fire,11,1,0,0,63250,Y,41-45,251-300,medium
+FEMALE,0,Multi-vehicle Collision,Side Collision,Major Damage,Other,14,3,1,1,68760,N,36-40,201-250,medium
+MALE,0,Multi-vehicle Collision,Side Collision,Minor Damage,Police,20,3,0,2,65040,N,26-30,101-150,high
+MALE,-13200,Single Vehicle Collision,Side Collision,Major Damage,Ambulance,22,1,1,3,82800,Y,31-35,151-200,high
+MALE,0,Single Vehicle Collision,Side Collision,Total Loss,Other,12,1,1,0,61700,Y,41-45,301-350,medium
+FEMALE,-42600,Multi-vehicle Collision,Rear Collision,Major Damage,Ambulance,3,3,2,1,78100,Y,61-65,451-500,high
+FEMALE,0,Multi-vehicle Collision,Rear Collision,Major Damage,Ambulance,15,3,2,1,65520,Y,21-25,51-100,low
+MALE,0,Parked Car,?,Trivial Damage,None,8,1,0,2,4500,N,26-30,151-200,medium
+FEMALE,-54300,Multi-vehicle Collision,Side Collision,Major Damage,Other,13,3,0,2,42700,Y,41-45,251-300,medium
+FEMALE,-55300,Parked Car,?,Minor Damage,Police,8,1,2,2,5580,Y,46-50,301-350,low
+FEMALE,0,Parked Car,?,Minor Damage,None,7,1,0,0,3600,Y,31-35,151-200,medium
+FEMALE,0,Vehicle Theft,?,Trivial Damage,None,9,1,2,0,2800,Y,36-40,151-200,medium
+FEMALE,-37900,Single Vehicle Collision,Front Collision,Minor Damage,Ambulance,15,1,1,0,54000,Y,46-50,301-350,medium
+FEMALE,-60700,Single Vehicle Collision,Side Collision,Minor Damage,Police,5,1,0,2,48950,Y,15-20,0-50,medium
+MALE,0,Multi-vehicle Collision,Rear Collision,Major Damage,Other,15,4,0,1,77800,N,46-50,301-350,high
+MALE,-22400,Multi-vehicle Collision,Front Collision,Major Damage,Other,22,3,2,1,52560,N,56-60,401-450,medium
+FEMALE,0,Multi-vehicle Collision,Side Collision,Total Loss,Police,16,2,1,2,44110,N,41-45,251-300,medium
+FEMALE,0,Single Vehicle Collision,Front Collision,Total Loss,Other,7,1,1,3,74360,N,26-30,101-150,low
+FEMALE,0,Parked Car,?,Minor Damage,None,2,1,1,2,6120,Y,31-35,101-150,high
+MALE,0,Multi-vehicle Collision,Side Collision,Minor Damage,Police,17,4,0,0,62280,Y,51-55,401-450,low
+FEMALE,-56800,Multi-vehicle Collision,Front Collision,Total Loss,Other,12,3,1,0,26730,Y,41-45,301-350,low
+FEMALE,-85900,Single Vehicle Collision,Rear Collision,Major Damage,Ambulance,9,1,1,0,66200,Y,26-30,51-100,low
+MALE,-79800,Single Vehicle Collision,Side Collision,Total Loss,Fire,16,1,1,2,45500,N,26-30,0-50,medium
+MALE,0,Multi-vehicle Collision,Side Collision,Minor Damage,Ambulance,19,3,2,0,53040,Y,41-45,201-250,medium
+MALE,-54100,Multi-vehicle Collision,Front Collision,Major Damage,Other,14,3,1,2,50800,Y,31-35,151-200,low
+FEMALE,0,Multi-vehicle Collision,Side Collision,Total Loss,Police,18,3,1,3,44200,N,41-45,251-300,high
+FEMALE,-24300,Single Vehicle Collision,Front Collision,Minor Damage,Police,23,1,1,3,62920,N,31-35,0-50,medium
+MALE,-42300,Multi-vehicle Collision,Rear Collision,Minor Damage,Other,15,3,0,2,49950,Y,26-30,101-150,medium
+MALE,0,Single Vehicle Collision,Rear Collision,Minor Damage,Ambulance,18,1,0,1,56430,Y,46-50,301-350,medium
+FEMALE,0,Single Vehicle Collision,Front Collision,Minor Damage,Police,16,1,2,2,100210,N,41-45,251-300,medium
+MALE,0,Multi-vehicle Collision,Front Collision,Minor Damage,Fire,12,3,1,0,49140,Y,26-30,101-150,high
+FEMALE,-62500,Single Vehicle Collision,Side Collision,Major Damage,Ambulance,16,1,0,1,66840,N,36-40,201-250,low
+MALE,-45300,Single Vehicle Collision,Front Collision,Total Loss,Other,21,1,1,2,62460,N,21-25,0-50,medium
+MALE,0,Multi-vehicle Collision,Side Collision,Total Loss,Other,15,3,0,1,62810,N,36-40,201-250,medium
+FEMALE,-73400,Single Vehicle Collision,Front Collision,Major Damage,Ambulance,21,1,1,2,54160,N,31-35,101-150,medium
+FEMALE,-51000,Single Vehicle Collision,Rear Collision,Major Damage,Ambulance,1,1,0,2,48400,N,31-35,51-100,medium
+MALE,-36700,Multi-vehicle Collision,Side Collision,Total Loss,Fire,17,3,0,0,51480,Y,46-50,301-350,medium
+FEMALE,-36600,Multi-vehicle Collision,Rear Collision,Total Loss,Fire,5,3,2,1,51700,N,36-40,151-200,medium
+MALE,-42700,Multi-vehicle Collision,Front Collision,Total Loss,Other,15,3,1,2,65520,N,56-60,401-450,medium
+MALE,-41600,Multi-vehicle Collision,Rear Collision,Major Damage,Other,2,4,2,2,47700,Y,31-35,151-200,medium
+FEMALE,-57500,Vehicle Theft,?,Minor Damage,None,3,1,2,0,5220,Y,31-35,151-200,medium
+MALE,0,Single Vehicle Collision,Side Collision,Major Damage,Other,19,1,1,0,73320,Y,56-60,401-450,medium
+MALE,-28800,Single Vehicle Collision,Front Collision,Minor Damage,Fire,17,1,0,2,74900,N,46-50,251-300,medium
+FEMALE,-47400,Vehicle Theft,?,Trivial Damage,Police,7,1,0,1,3190,N,26-30,0-50,medium
+MALE,0,Single Vehicle Collision,Rear Collision,Minor Damage,Ambulance,21,1,1,0,76920,Y,31-35,101-150,low
+FEMALE,0,Multi-vehicle Collision,Front Collision,Total Loss,Police,10,2,1,3,77990,N,51-55,351-400,medium
+MALE,0,Single Vehicle Collision,Front Collision,Total Loss,Fire,11,1,1,0,59670,Y,46-50,251-300,medium
+FEMALE,-36900,Multi-vehicle Collision,Rear Collision,Major Damage,Ambulance,23,3,2,0,44880,Y,31-35,151-200,medium
+MALE,0,Single Vehicle Collision,Side Collision,Minor Damage,Ambulance,14,1,0,2,82830,N,51-55,351-400,medium
+FEMALE,0,Single Vehicle Collision,Front Collision,Minor Damage,Other,10,1,1,3,84480,Y,56-60,451-500,medium
+FEMALE,-66300,Multi-vehicle Collision,Side Collision,Total Loss,Fire,6,3,2,3,79800,N,26-30,51-100,medium
+MALE,-64700,Multi-vehicle Collision,Rear Collision,Minor Damage,Police,10,3,0,3,53020,N,41-45,251-300,medium
+FEMALE,-64100,Multi-vehicle Collision,Side Collision,Total Loss,Police,5,3,0,0,24200,Y,41-45,251-300,medium
+MALE,-45300,Single Vehicle Collision,Rear Collision,Minor Damage,Fire,17,1,1,3,43230,N,36-40,251-300,medium
+FEMALE,0,Vehicle Theft,?,Trivial Damage,None,3,1,2,3,3190,N,41-45,251-300,low
+FEMALE,-50400,Parked Car,?,Minor Damage,None,9,1,0,3,5850,N,41-45,251-300,medium
+FEMALE,-29900,Parked Car,?,Trivial Damage,Police,6,1,2,0,6820,Y,26-30,51-100,medium
+FEMALE,0,Multi-vehicle Collision,Front Collision,Minor Damage,Fire,22,3,2,2,69480,N,41-45,251-300,medium
+MALE,0,Multi-vehicle Collision,Front Collision,Major Damage,Fire,10,3,1,2,94560,N,26-30,51-100,high
+MALE,0,Vehicle Theft,?,Minor Damage,None,4,1,1,2,7800,N,36-40,201-250,low
+FEMALE,-43700,Single Vehicle Collision,Front Collision,Total Loss,Other,23,1,1,3,61270,N,31-35,101-150,medium
+FEMALE,0,Single Vehicle Collision,Rear Collision,Total Loss,Police,19,1,0,2,71440,N,46-50,301-350,medium
+FEMALE,0,Single Vehicle Collision,Rear Collision,Total Loss,Ambulance,22,1,1,2,55600,N,36-40,151-200,high
+MALE,0,Vehicle Theft,?,Trivial Damage,Police,6,1,1,3,5000,N,41-45,251-300,medium
+FEMALE,-56900,Single Vehicle Collision,Side Collision,Minor Damage,Other,6,1,2,0,95810,Y,31-35,101-150,medium
+FEMALE,0,Single Vehicle Collision,Rear Collision,Major Damage,Ambulance,18,1,2,2,69300,N,41-45,201-250,medium
+MALE,0,Single Vehicle Collision,Front Collision,Total Loss,Ambulance,22,1,1,0,81120,Y,36-40,151-200,medium
+MALE,0,Single Vehicle Collision,Front Collision,Major Damage,Other,21,1,0,0,91260,Y,21-25,0-50,medium
+FEMALE,-54700,Single Vehicle Collision,Side Collision,Minor Damage,Fire,12,1,0,0,60600,Y,46-50,301-350,high
+MALE,0,Multi-vehicle Collision,Front Collision,Major Damage,Ambulance,6,3,0,3,64800,Y,31-35,151-200,medium
+FEMALE,0,Multi-vehicle Collision,Side Collision,Major Damage,Police,0,4,0,0,66880,Y,31-35,0-50,medium
+MALE,-91400,Single Vehicle Collision,Front Collision,Total Loss,Ambulance,11,1,0,2,58200,N,31-35,201-250,medium
+FEMALE,0,Single Vehicle Collision,Side Collision,Minor Damage,Police,19,1,1,0,60570,Y,31-35,51-100,medium
+FEMALE,-38400,Multi-vehicle Collision,Rear Collision,Major Damage,Ambulance,22,3,0,0,69680,Y,36-40,151-200,low
+MALE,0,Single Vehicle Collision,Front Collision,Total Loss,Fire,2,1,2,3,55700,N,56-60,451-500,low
+FEMALE,-67400,Multi-vehicle Collision,Front Collision,Total Loss,Ambulance,16,4,1,2,62370,N,46-50,251-300,medium
+FEMALE,-53300,Multi-vehicle Collision,Side Collision,Total Loss,Other,23,3,0,0,54340,Y,41-45,251-300,medium
+FEMALE,0,Single Vehicle Collision,Front Collision,Major Damage,Police,21,1,1,0,55170,Y,46-50,301-350,low
+MALE,0,Single Vehicle Collision,Front Collision,Minor Damage,Other,10,1,2,3,58500,N,31-35,101-150,medium
+MALE,0,Single Vehicle Collision,Rear Collision,Major Damage,Fire,12,1,0,3,59940,N,31-35,151-200,medium
+MALE,0,Single Vehicle Collision,Side Collision,Total Loss,Police,6,1,1,0,73400,Y,26-30,101-150,medium
+MALE,0,Single Vehicle Collision,Side Collision,Major Damage,Fire,6,1,1,2,41850,N,21-25,51-100,medium
+FEMALE,0,Parked Car,?,Trivial Damage,Police,7,1,2,2,6400,Y,41-45,251-300,low
+FEMALE,0,Vehicle Theft,?,Trivial Damage,Police,3,1,1,1,3190,N,36-40,201-250,high
+MALE,-66000,Parked Car,?,Trivial Damage,None,10,1,2,1,5900,N,26-30,51-100,medium
+MALE,0,Single Vehicle Collision,Rear Collision,Total Loss,Fire,14,1,0,2,57330,N,31-35,101-150,medium
+MALE,-45500,Multi-vehicle Collision,Front Collision,Total Loss,Other,17,3,0,3,81960,N,46-50,301-350,low
+FEMALE,0,Single Vehicle Collision,Side Collision,Major Damage,Fire,16,1,0,0,70400,Y,31-35,151-200,low
+FEMALE,0,Parked Car,?,Minor Damage,None,3,1,2,1,3770,N,31-35,101-150,medium
+FEMALE,-15600,Parked Car,?,Minor Damage,None,7,1,0,0,7400,Y,36-40,151-200,medium
+FEMALE,-71000,Single Vehicle Collision,Rear Collision,Total Loss,Police,13,1,1,1,54810,Y,51-55,401-450,medium
+FEMALE,-67300,Single Vehicle Collision,Rear Collision,Total Loss,Fire,20,1,2,3,49400,N,36-40,151-200,medium
+MALE,0,Single Vehicle Collision,Front Collision,Minor Damage,Fire,23,1,2,2,68750,N,51-55,351-400,high
+FEMALE,0,Single Vehicle Collision,Front Collision,Total Loss,Ambulance,11,1,1,0,61500,Y,31-35,0-50,medium
+FEMALE,0,Multi-vehicle Collision,Rear Collision,Major Damage,Ambulance,0,4,0,3,76890,N,36-40,201-250,medium
+FEMALE,-50300,Single Vehicle Collision,Rear Collision,Minor Damage,Ambulance,2,1,0,1,56070,N,31-35,0-50,medium
+FEMALE,-51200,Single Vehicle Collision,Side Collision,Total Loss,Fire,3,1,2,0,56000,Y,26-30,51-100,medium
+FEMALE,0,Parked Car,?,Trivial Damage,None,3,1,1,0,4290,Y,31-35,101-150,medium
+FEMALE,-43600,Multi-vehicle Collision,Rear Collision,Total Loss,Other,15,3,2,1,60750,N,36-40,0-50,medium
+FEMALE,-42700,Single Vehicle Collision,Side Collision,Minor Damage,Other,23,1,2,3,48730,N,26-30,101-150,medium
+MALE,-8500,Multi-vehicle Collision,Front Collision,Minor Damage,Police,9,3,2,0,95150,Y,41-45,251-300,medium
+MALE,0,Vehicle Theft,?,Minor Damage,Police,20,1,0,1,7480,N,21-25,51-100,medium
+MALE,-41200,Single Vehicle Collision,Side Collision,Major Damage,Ambulance,5,1,2,1,79800,Y,26-30,101-150,high
+FEMALE,-12100,Single Vehicle Collision,Side Collision,Total Loss,Other,15,1,0,2,103560,N,51-55,351-400,medium
+FEMALE,0,Single Vehicle Collision,Side Collision,Minor Damage,Ambulance,13,1,2,3,79500,N,36-40,151-200,medium
+FEMALE,0,Single Vehicle Collision,Rear Collision,Minor Damage,Other,16,1,2,2,76230,Y,41-45,251-300,medium
+MALE,-17000,Single Vehicle Collision,Side Collision,Minor Damage,Ambulance,0,1,0,2,59520,N,51-55,401-450,low
+FEMALE,-50300,Multi-vehicle Collision,Front Collision,Major Damage,Police,10,3,2,1,47760,Y,56-60,451-500,medium
+MALE,-72900,Multi-vehicle Collision,Side Collision,Total Loss,Police,14,3,2,0,84590,Y,41-45,201-250,low
+MALE,0,Multi-vehicle Collision,Front Collision,Total Loss,Other,1,3,2,2,61650,N,36-40,0-50,high
+FEMALE,-60600,Single Vehicle Collision,Rear Collision,Major Damage,Police,16,1,2,1,81400,N,31-35,0-50,medium
+FEMALE,0,Multi-vehicle Collision,Side Collision,Major Damage,Fire,2,3,0,1,58410,N,31-35,101-150,medium
+FEMALE,0,Multi-vehicle Collision,Side Collision,Major Damage,Ambulance,23,3,0,0,38610,Y,56-60,401-450,high
+FEMALE,0,Multi-vehicle Collision,Front Collision,Minor Damage,Fire,19,3,2,2,57600,N,36-40,201-250,medium
+FEMALE,-51900,Multi-vehicle Collision,Side Collision,Minor Damage,Fire,23,3,2,2,53190,N,31-35,0-50,medium
+FEMALE,0,Single Vehicle Collision,Front Collision,Major Damage,Other,10,1,2,3,58300,Y,56-60,451-500,high
+MALE,-50300,Multi-vehicle Collision,Front Collision,Minor Damage,Ambulance,12,3,1,2,64620,N,36-40,201-250,medium
+MALE,-62400,Multi-vehicle Collision,Side Collision,Total Loss,Ambulance,15,3,2,0,90480,Y,51-55,351-400,medium
+FEMALE,0,Vehicle Theft,?,Trivial Damage,None,3,1,1,0,7080,Y,46-50,301-350,medium
+MALE,-68900,Parked Car,?,Minor Damage,Police,19,1,2,2,6490,Y,41-45,251-300,high
+FEMALE,-60600,Multi-vehicle Collision,Side Collision,Total Loss,Police,16,3,1,1,55900,N,36-40,151-200,medium
+MALE,-67800,Single Vehicle Collision,Rear Collision,Major Damage,Other,16,1,0,3,63800,Y,26-30,51-100,high
+MALE,0,Single Vehicle Collision,Side Collision,Total Loss,Police,10,1,0,1,58160,Y,56-60,351-400,high
+MALE,0,Vehicle Theft,?,Minor Damage,Police,6,1,1,2,6300,Y,51-55,401-450,low
+MALE,0,Single Vehicle Collision,Front Collision,Major Damage,Fire,18,1,2,1,104610,Y,46-50,301-350,medium
+MALE,0,Multi-vehicle Collision,Rear Collision,Major Damage,Fire,20,3,0,2,69850,N,41-45,251-300,medium
+FEMALE,-41200,Single Vehicle Collision,Rear Collision,Minor Damage,Fire,14,1,0,0,62900,Y,21-25,0-50,medium
+MALE,-35500,Multi-vehicle Collision,Front Collision,Major Damage,Other,8,3,0,3,59670,Y,26-30,101-150,low
+MALE,-49200,Multi-vehicle Collision,Rear Collision,Minor Damage,Other,17,2,2,0,81500,Y,36-40,201-250,medium
+MALE,-40900,Single Vehicle Collision,Rear Collision,Minor Damage,Ambulance,9,1,2,0,50000,Y,56-60,451-500,medium
+MALE,-31700,Single Vehicle Collision,Front Collision,Total Loss,Other,0,1,2,1,48290,N,26-30,51-100,medium
+MALE,-76000,Single Vehicle Collision,Rear Collision,Total Loss,Fire,2,1,0,0,59070,Y,26-30,101-150,high
+FEMALE,0,Multi-vehicle Collision,Rear Collision,Minor Damage,Police,23,3,0,0,63300,Y,21-25,51-100,medium
+MALE,0,Single Vehicle Collision,Side Collision,Total Loss,Other,8,1,0,3,65780,N,46-50,301-350,high
+MALE,0,Multi-vehicle Collision,Front Collision,Total Loss,Ambulance,6,3,0,2,75400,Y,26-30,0-50,medium
+MALE,-30400,Vehicle Theft,?,Minor Damage,None,3,1,1,1,2250,N,31-35,151-200,high
+FEMALE,0,Multi-vehicle Collision,Front Collision,Minor Damage,Ambulance,14,3,1,3,54120,N,36-40,0-50,medium
+MALE,-71700,Multi-vehicle Collision,Side Collision,Major Damage,Other,16,3,0,2,69480,N,46-50,301-350,low
+FEMALE,0,Single Vehicle Collision,Rear Collision,Minor Damage,Police,12,1,1,2,66950,N,41-45,201-250,medium
+FEMALE,-56200,Multi-vehicle Collision,Rear Collision,Major Damage,Other,1,3,2,3,64100,Y,46-50,351-400,medium
+MALE,-49400,Single Vehicle Collision,Rear Collision,Minor Damage,Other,19,1,0,3,80280,N,46-50,251-300,low
+MALE,-39100,Vehicle Theft,?,Trivial Damage,Police,7,1,1,2,4680,N,41-45,301-350,medium
+MALE,-41100,Multi-vehicle Collision,Rear Collision,Minor Damage,Ambulance,6,4,1,1,39720,N,31-35,0-50,medium
+MALE,-46900,Single Vehicle Collision,Front Collision,Major Damage,Police,11,1,0,0,63580,Y,56-60,401-450,medium
+FEMALE,0,Single Vehicle Collision,Side Collision,Minor Damage,Other,2,1,1,1,73370,N,46-50,301-350,high
+FEMALE,0,Single Vehicle Collision,Side Collision,Minor Damage,Police,15,1,2,3,86790,N,26-30,0-50,low
+MALE,-53700,Single Vehicle Collision,Side Collision,Major Damage,Police,0,1,0,2,49800,N,36-40,0-50,low
+FEMALE,-37500,Single Vehicle Collision,Side Collision,Major Damage,Other,12,1,1,1,77440,N,36-40,201-250,medium
+FEMALE,-42700,Single Vehicle Collision,Front Collision,Total Loss,Other,1,1,1,0,42900,Y,46-50,301-350,medium
+FEMALE,-53800,Multi-vehicle Collision,Rear Collision,Major Damage,Fire,16,2,1,0,53820,Y,26-30,51-100,medium
+MALE,0,Single Vehicle Collision,Rear Collision,Minor Damage,Police,2,1,2,1,57330,N,46-50,301-350,low
+FEMALE,0,Multi-vehicle Collision,Rear Collision,Minor Damage,Police,13,3,2,1,53370,N,21-25,0-50,medium
+MALE,-68100,Single Vehicle Collision,Front Collision,Minor Damage,Police,0,1,2,2,62920,N,26-30,51-100,medium
+FEMALE,0,Multi-vehicle Collision,Front Collision,Total Loss,Fire,0,3,0,1,61600,N,21-25,51-100,medium
+MALE,-58400,Multi-vehicle Collision,Rear Collision,Total Loss,Police,16,3,2,0,74160,Y,26-30,101-150,low
+MALE,-52900,Single Vehicle Collision,Rear Collision,Total Loss,Police,8,1,2,0,80100,Y,36-40,201-250,medium
+FEMALE,-46200,Parked Car,?,Trivial Damage,Police,9,1,2,3,6560,N,46-50,251-300,medium
+MALE,0,Single Vehicle Collision,Rear Collision,Total Loss,Ambulance,11,1,2,1,58800,N,31-35,201-250,medium
+FEMALE,0,Multi-vehicle Collision,Side Collision,Minor Damage,Ambulance,6,3,0,2,53730,Y,36-40,151-200,medium
+FEMALE,0,Single Vehicle Collision,Rear Collision,Total Loss,Ambulance,18,1,0,0,60600,Y,56-60,451-500,medium
+FEMALE,-42400,Single Vehicle Collision,Side Collision,Total Loss,Other,11,1,0,3,35750,N,46-50,251-300,medium
+FEMALE,-42500,Single Vehicle Collision,Front Collision,Total Loss,Ambulance,17,1,1,2,42840,N,26-30,51-100,medium
+MALE,-51200,Multi-vehicle Collision,Front Collision,Major Damage,Fire,21,3,1,0,87960,Y,36-40,201-250,medium
+MALE,-78600,Multi-vehicle Collision,Rear Collision,Minor Damage,Ambulance,0,3,1,0,47800,Y,41-45,201-250,high
+FEMALE,-33000,Vehicle Theft,?,Trivial Damage,Police,9,1,0,1,3840,N,41-45,251-300,medium
+MALE,-51600,Single Vehicle Collision,Front Collision,Total Loss,Fire,1,1,0,2,77000,N,41-45,251-300,high
+FEMALE,0,Single Vehicle Collision,Rear Collision,Total Loss,Ambulance,22,1,1,3,88110,N,26-30,0-50,medium
+MALE,-49500,Multi-vehicle Collision,Rear Collision,Minor Damage,Fire,20,4,0,2,47740,N,41-45,201-250,medium
+FEMALE,-77000,Multi-vehicle Collision,Rear Collision,Total Loss,Fire,9,3,2,1,58960,N,26-30,51-100,low
+FEMALE,-45800,Parked Car,?,Minor Damage,Police,5,1,1,2,2160,N,46-50,251-300,medium
+FEMALE,0,Vehicle Theft,?,Trivial Damage,Police,12,1,1,1,6890,N,26-30,0-50,medium
+FEMALE,0,Multi-vehicle Collision,Side Collision,Major Damage,Ambulance,6,3,2,0,78870,Y,41-45,301-350,medium
+FEMALE,0,Vehicle Theft,?,Trivial Damage,Police,8,1,1,1,2700,N,46-50,251-300,medium
+FEMALE,0,Single Vehicle Collision,Front Collision,Total Loss,Ambulance,14,1,0,1,75960,N,51-55,351-400,medium
+FEMALE,-58900,Single Vehicle Collision,Front Collision,Major Damage,Police,10,1,1,3,75570,Y,31-35,0-50,high
+FEMALE,0,Single Vehicle Collision,Front Collision,Minor Damage,Police,12,1,2,3,90240,N,46-50,351-400,high
+FEMALE,0,Single Vehicle Collision,Front Collision,Major Damage,Ambulance,12,1,0,0,80960,Y,51-55,351-400,medium
+MALE,0,Multi-vehicle Collision,Front Collision,Total Loss,Other,12,3,1,3,79080,N,36-40,151-200,high
+MALE,-65300,Vehicle Theft,?,Minor Damage,None,13,1,0,3,6820,N,46-50,351-400,high
+FEMALE,-49200,Multi-vehicle Collision,Rear Collision,Total Loss,Fire,17,3,1,2,62590,N,41-45,251-300,medium
+FEMALE,-71900,Single Vehicle Collision,Side Collision,Major Damage,Other,14,1,1,0,52400,Y,21-25,51-100,medium
+MALE,-90600,Multi-vehicle Collision,Front Collision,Major Damage,Ambulance,3,3,1,3,63580,N,46-50,251-300,medium
+FEMALE,-56200,Multi-vehicle Collision,Side Collision,Minor Damage,Police,18,3,2,1,61400,N,51-55,451-500,medium
+MALE,0,Parked Car,?,Minor Damage,None,5,1,1,3,4700,Y,61-65,451-500,medium
+FEMALE,-39400,Single Vehicle Collision,Front Collision,Total Loss,Fire,19,1,0,2,74140,N,41-45,201-250,medium
+FEMALE,-72400,Single Vehicle Collision,Front Collision,Major Damage,Other,0,1,2,2,83160,N,26-30,101-150,medium
+FEMALE,-6300,Parked Car,?,Trivial Damage,Police,22,1,0,2,10790,N,41-45,201-250,medium
+FEMALE,0,Multi-vehicle Collision,Rear Collision,Major Damage,Police,21,3,1,3,48070,N,31-35,51-100,medium
+FEMALE,0,Multi-vehicle Collision,Rear Collision,Minor Damage,Ambulance,4,3,0,0,51030,Y,21-25,0-50,medium
+MALE,0,Single Vehicle Collision,Front Collision,Minor Damage,Fire,10,1,0,1,43280,Y,36-40,251-300,high
+FEMALE,0,Single Vehicle Collision,Front Collision,Major Damage,Fire,5,1,1,3,76400,N,26-30,101-150,low
+MALE,0,Single Vehicle Collision,Side Collision,Total Loss,Ambulance,13,1,0,2,75460,N,41-45,201-250,medium
+MALE,0,Multi-vehicle Collision,Side Collision,Major Damage,Other,18,3,2,1,69000,Y,46-50,301-350,medium
+MALE,0,Vehicle Theft,?,Minor Damage,Police,6,1,1,2,8640,N,36-40,201-250,low
+MALE,-53000,Multi-vehicle Collision,Rear Collision,Minor Damage,Ambulance,0,3,2,1,67210,N,26-30,101-150,medium
+MALE,-55600,Multi-vehicle Collision,Side Collision,Total Loss,Ambulance,5,3,0,3,42500,N,36-40,151-200,medium
+MALE,-34600,Single Vehicle Collision,Rear Collision,Minor Damage,Fire,8,1,0,1,86400,N,51-55,351-400,medium
+MALE,-32900,Vehicle Theft,?,Minor Damage,Police,5,1,2,2,4620,Y,51-55,351-400,high
+FEMALE,0,Parked Car,?,Trivial Damage,Police,9,1,2,2,6930,N,51-55,401-450,medium
+FEMALE,0,Multi-vehicle Collision,Side Collision,Minor Damage,Other,10,3,1,2,41700,N,36-40,201-250,medium
+MALE,0,Single Vehicle Collision,Rear Collision,Major Damage,Other,16,1,2,1,77330,Y,51-55,351-400,medium
+MALE,0,Vehicle Theft,?,Trivial Damage,Police,8,1,2,3,4950,N,31-35,151-200,medium
+MALE,-36500,Vehicle Theft,?,Minor Damage,Police,5,1,0,2,5160,N,26-30,51-100,high
+FEMALE,-19500,Multi-vehicle Collision,Side Collision,Total Loss,Fire,11,3,2,1,24570,Y,31-35,201-250,medium
+FEMALE,0,Multi-vehicle Collision,Rear Collision,Minor Damage,Ambulance,15,3,1,0,53680,Y,36-40,201-250,medium
+MALE,0,Multi-vehicle Collision,Side Collision,Total Loss,Police,23,3,1,1,42900,N,46-50,301-350,medium
+MALE,-42800,Single Vehicle Collision,Front Collision,Minor Damage,Fire,23,1,0,0,84100,Y,41-45,251-300,low
+FEMALE,-55800,Single Vehicle Collision,Front Collision,Total Loss,Fire,23,1,1,3,61560,N,26-30,0-50,medium
+FEMALE,-31700,Single Vehicle Collision,Rear Collision,Minor Damage,Police,10,1,0,0,44240,Y,36-40,251-300,medium
+FEMALE,-49000,Multi-vehicle Collision,Rear Collision,Minor Damage,Ambulance,12,4,2,3,57700,N,31-35,151-200,medium
+FEMALE,-66800,Single Vehicle Collision,Side Collision,Minor Damage,Other,4,1,2,2,108030,N,46-50,401-450,medium
+FEMALE,-65700,Single Vehicle Collision,Rear Collision,Minor Damage,Fire,16,1,2,0,54300,Y,26-30,101-150,medium
+MALE,-81000,Multi-vehicle Collision,Front Collision,Major Damage,Ambulance,18,3,1,2,32280,Y,51-55,351-400,medium
+MALE,-53800,Multi-vehicle Collision,Rear Collision,Total Loss,Other,15,3,1,1,84600,N,41-45,301-350,high
+MALE,-49900,Single Vehicle Collision,Front Collision,Total Loss,Other,8,1,1,3,69700,N,31-35,151-200,low
+MALE,0,Multi-vehicle Collision,Rear Collision,Total Loss,Ambulance,4,3,0,1,36400,N,31-35,151-200,high
+FEMALE,-54900,Multi-vehicle Collision,Side Collision,Minor Damage,Police,20,3,0,2,37520,N,36-40,251-300,medium
+FEMALE,-47700,Multi-vehicle Collision,Side Collision,Major Damage,Ambulance,1,3,2,3,79090,N,31-35,101-150,medium
+MALE,-79600,Single Vehicle Collision,Rear Collision,Major Damage,Other,19,1,0,2,67770,Y,51-55,401-450,medium
+MALE,0,Single Vehicle Collision,Side Collision,Total Loss,Other,11,1,1,0,47400,Y,31-35,101-150,high
+MALE,-56900,Single Vehicle Collision,Front Collision,Total Loss,Other,13,1,0,2,71100,N,36-40,151-200,medium
+MALE,-75100,Single Vehicle Collision,Front Collision,Minor Damage,Police,2,1,2,2,69400,N,46-50,251-300,high
+MALE,0,Multi-vehicle Collision,Rear Collision,Major Damage,Other,9,3,2,1,55000,Y,36-40,201-250,high
+MALE,0,Multi-vehicle Collision,Rear Collision,Total Loss,Police,15,2,1,3,51090,N,51-55,401-450,low
+MALE,0,Single Vehicle Collision,Side Collision,Major Damage,Fire,23,1,2,3,64200,Y,31-35,51-100,medium
+MALE,-40200,Single Vehicle Collision,Front Collision,Total Loss,Other,16,1,2,0,67320,Y,41-45,251-300,medium
+MALE,0,Multi-vehicle Collision,Side Collision,Major Damage,Other,21,4,2,0,76120,Y,31-35,101-150,medium
+FEMALE,-38500,Multi-vehicle Collision,Front Collision,Minor Damage,Ambulance,21,2,2,1,85020,N,26-30,101-150,medium
+MALE,-57000,Multi-vehicle Collision,Rear Collision,Minor Damage,Fire,3,3,0,1,68090,N,41-45,251-300,medium
+FEMALE,0,Parked Car,?,Trivial Damage,Police,4,1,1,2,6030,N,26-30,101-150,high
+MALE,-55800,Vehicle Theft,?,Minor Damage,None,17,1,1,3,5100,N,31-35,151-200,medium
+MALE,0,Vehicle Theft,?,Trivial Damage,Police,7,1,1,3,4590,N,26-30,151-200,high
+FEMALE,0,Multi-vehicle Collision,Front Collision,Major Damage,Other,14,2,1,2,72400,Y,56-60,451-500,low
+MALE,0,Single Vehicle Collision,Front Collision,Major Damage,Fire,13,1,2,3,70900,N,61-65,451-500,low
+FEMALE,0,Multi-vehicle Collision,Side Collision,Total Loss,Other,23,2,2,3,65100,N,21-25,51-100,medium
+FEMALE,0,Multi-vehicle Collision,Side Collision,Total Loss,Ambulance,23,3,2,1,64260,N,36-40,201-250,medium
+FEMALE,0,Single Vehicle Collision,Rear Collision,Major Damage,Ambulance,16,1,2,1,79970,Y,41-45,0-50,medium
+FEMALE,0,Single Vehicle Collision,Rear Collision,Total Loss,Police,17,1,2,0,56610,Y,41-45,251-300,medium
+FEMALE,0,Single Vehicle Collision,Side Collision,Major Damage,Fire,9,1,1,1,84590,Y,26-30,151-200,medium
+MALE,-43800,Multi-vehicle Collision,Side Collision,Major Damage,Fire,13,3,2,1,66780,N,36-40,151-200,high
+MALE,-28800,Single Vehicle Collision,Rear Collision,Major Damage,Police,13,1,1,2,58500,N,36-40,51-100,high
+FEMALE,-62500,Parked Car,?,Trivial Damage,Police,3,1,2,0,5000,Y,41-45,251-300,medium
+FEMALE,0,Parked Car,?,Trivial Damage,Police,3,1,2,1,5000,Y,26-30,0-50,low
+FEMALE,-70300,Multi-vehicle Collision,Front Collision,Major Damage,Ambulance,16,3,1,3,54450,N,41-45,251-300,medium
+FEMALE,0,Multi-vehicle Collision,Front Collision,Major Damage,Police,12,3,1,3,61920,N,36-40,201-250,medium
+MALE,-61400,Single Vehicle Collision,Side Collision,Minor Damage,Ambulance,4,1,1,2,43700,Y,26-30,51-100,medium
+MALE,-26400,Single Vehicle Collision,Front Collision,Minor Damage,Other,3,1,2,0,64080,Y,31-35,101-150,low
+MALE,-31400,Single Vehicle Collision,Rear Collision,Total Loss,Other,0,1,2,1,55000,Y,31-35,0-50,medium
+FEMALE,0,Vehicle Theft,?,Trivial Damage,Police,19,1,2,3,4400,N,26-30,51-100,medium
+MALE,0,Multi-vehicle Collision,Side Collision,Minor Damage,Police,15,2,0,1,71640,N,26-30,51-100,medium
+MALE,0,Single Vehicle Collision,Rear Collision,Minor Damage,Other,6,1,1,0,61740,Y,41-45,251-300,medium
+FEMALE,-66200,Single Vehicle Collision,Side Collision,Total Loss,Ambulance,3,1,0,3,57500,N,26-30,101-150,high
+FEMALE,-63900,Parked Car,?,Minor Damage,Police,17,1,0,0,8700,Y,36-40,201-250,medium
+FEMALE,0,Multi-vehicle Collision,Front Collision,Total Loss,Police,4,4,2,1,77100,N,46-50,251-300,high
+MALE,0,Single Vehicle Collision,Front Collision,Minor Damage,Police,14,1,2,0,59400,Y,56-60,451-500,medium
+MALE,0,Multi-vehicle Collision,Rear Collision,Minor Damage,Fire,3,3,1,0,54890,Y,46-50,301-350,low
+MALE,-59700,Multi-vehicle Collision,Front Collision,Minor Damage,Other,4,3,2,1,74030,N,26-30,101-150,medium
+FEMALE,0,Single Vehicle Collision,Rear Collision,Total Loss,Other,13,1,1,2,61490,N,41-45,51-100,medium
+MALE,-90100,Multi-vehicle Collision,Front Collision,Minor Damage,Police,23,3,0,2,79560,N,26-30,51-100,medium
+MALE,-65200,Parked Car,?,Minor Damage,Police,3,1,0,1,4900,N,31-35,101-150,medium
+MALE,-61400,Multi-vehicle Collision,Side Collision,Total Loss,Other,0,3,1,0,77770,Y,31-35,151-200,low
+FEMALE,0,Multi-vehicle Collision,Side Collision,Major Damage,Fire,14,2,2,2,74700,Y,41-45,251-300,low
+MALE,0,Multi-vehicle Collision,Front Collision,Minor Damage,Police,14,2,2,2,40600,N,26-30,101-150,medium
+MALE,-32600,Single Vehicle Collision,Rear Collision,Total Loss,Ambulance,22,1,1,0,45270,Y,26-30,101-150,low
+FEMALE,0,Multi-vehicle Collision,Front Collision,Minor Damage,Ambulance,17,3,0,3,47080,N,36-40,201-250,low
+FEMALE,0,Single Vehicle Collision,Side Collision,Minor Damage,Police,14,1,0,0,40700,Y,56-60,451-500,medium
+FEMALE,0,Single Vehicle Collision,Side Collision,Minor Damage,Police,2,1,2,1,34650,N,26-30,51-100,medium
+MALE,0,Parked Car,?,Trivial Damage,Police,4,1,2,0,3200,Y,26-30,0-50,medium
+MALE,-74200,Single Vehicle Collision,Rear Collision,Major Damage,Fire,2,1,1,1,78980,Y,41-45,201-250,medium
+MALE,0,Parked Car,?,Minor Damage,None,10,1,1,0,6160,Y,31-35,101-150,medium
+FEMALE,-67800,Single Vehicle Collision,Front Collision,Major Damage,Ambulance,11,1,1,1,85250,N,56-60,401-450,high
+MALE,0,Multi-vehicle Collision,Side Collision,Major Damage,Fire,1,4,1,2,72840,N,46-50,301-350,low
+MALE,0,Parked Car,?,Trivial Damage,Police,20,1,0,2,6050,N,36-40,201-250,medium
+FEMALE,-37000,Single Vehicle Collision,Front Collision,Major Damage,Fire,10,1,2,3,87890,Y,36-40,201-250,low
+FEMALE,-56400,Multi-vehicle Collision,Side Collision,Total Loss,Other,20,2,0,2,60500,Y,46-50,301-350,medium
+FEMALE,0,Multi-vehicle Collision,Front Collision,Minor Damage,Fire,10,3,2,1,88220,N,31-35,101-150,medium
+FEMALE,-48400,Multi-vehicle Collision,Rear Collision,Total Loss,Other,2,2,1,2,53680,N,36-40,151-200,medium
+MALE,-54600,Single Vehicle Collision,Front Collision,Minor Damage,Fire,19,1,0,2,53800,N,41-45,251-300,medium
+FEMALE,-48500,Single Vehicle Collision,Rear Collision,Major Damage,Police,10,1,1,2,54360,Y,26-30,101-150,medium
+FEMALE,0,Single Vehicle Collision,Side Collision,Major Damage,Police,14,1,0,3,54340,N,31-35,151-200,medium
+FEMALE,-42900,Parked Car,?,Trivial Damage,None,5,1,0,2,2860,Y,31-35,101-150,high
+MALE,0,Vehicle Theft,?,Minor Damage,Police,8,1,2,1,5490,N,26-30,101-150,high
+MALE,0,Vehicle Theft,?,Trivial Damage,Police,4,1,0,2,7370,N,41-45,301-350,medium
+FEMALE,0,Multi-vehicle Collision,Side Collision,Major Damage,Ambulance,4,3,1,0,50800,Y,31-35,0-50,medium
+MALE,0,Multi-vehicle Collision,Side Collision,Minor Damage,Fire,20,2,1,1,41520,N,46-50,301-350,medium
+FEMALE,-78300,Single Vehicle Collision,Side Collision,Total Loss,Police,18,1,2,3,89650,N,36-40,151-200,medium
+FEMALE,-71500,Multi-vehicle Collision,Rear Collision,Total Loss,Police,0,3,0,3,39690,N,51-55,351-400,medium
+FEMALE,0,Single Vehicle Collision,Rear Collision,Major Damage,Ambulance,1,1,2,0,62260,Y,31-35,101-150,medium
+FEMALE,0,Single Vehicle Collision,Side Collision,Major Damage,Police,17,1,0,1,51920,Y,36-40,151-200,high
+MALE,-74400,Single Vehicle Collision,Front Collision,Minor Damage,Other,23,1,2,2,53460,N,36-40,251-300,medium
+FEMALE,-71200,Multi-vehicle Collision,Rear Collision,Total Loss,Fire,4,3,2,1,57100,N,41-45,251-300,medium
+MALE,-57600,Multi-vehicle Collision,Front Collision,Total Loss,Ambulance,0,3,2,3,77440,N,36-40,151-200,high
+MALE,0,Single Vehicle Collision,Side Collision,Minor Damage,Ambulance,11,1,1,2,68300,N,36-40,201-250,medium
+MALE,-53700,Parked Car,?,Trivial Damage,None,4,1,0,2,5060,N,31-35,101-150,medium
+MALE,-66200,Multi-vehicle Collision,Side Collision,Total Loss,Ambulance,0,3,0,2,59400,Y,31-35,0-50,low
+FEMALE,-28300,Multi-vehicle Collision,Side Collision,Major Damage,Ambulance,2,3,0,2,69930,Y,31-35,101-150,medium
+FEMALE,-74800,Multi-vehicle Collision,Front Collision,Minor Damage,Police,11,3,1,1,77700,N,26-30,101-150,high
+MALE,-44000,Multi-vehicle Collision,Front Collision,Major Damage,Other,23,3,2,1,68750,Y,51-55,351-400,low
+FEMALE,0,Multi-vehicle Collision,Side Collision,Minor Damage,Police,17,3,1,3,91080,N,26-30,101-150,medium
+FEMALE,-54700,Single Vehicle Collision,Side Collision,Minor Damage,Other,22,1,1,3,48360,N,15-20,0-50,medium
+MALE,-55100,Single Vehicle Collision,Side Collision,Major Damage,Other,18,1,1,1,95000,N,31-35,201-250,high
+MALE,0,Vehicle Theft,?,Trivial Damage,Police,8,1,1,3,3900,N,31-35,101-150,medium
+MALE,-33300,Multi-vehicle Collision,Front Collision,Minor Damage,Other,15,3,0,3,59400,Y,36-40,251-300,medium
+FEMALE,-61500,Single Vehicle Collision,Rear Collision,Minor Damage,Fire,20,1,2,0,60210,Y,41-45,301-350,low
+MALE,-30400,Single Vehicle Collision,Front Collision,Minor Damage,Ambulance,4,1,0,3,43600,N,31-35,101-150,low
+MALE,-64900,Multi-vehicle Collision,Front Collision,Total Loss,Police,10,3,0,0,62800,Y,56-60,451-500,medium
+MALE,0,Single Vehicle Collision,Side Collision,Major Damage,Ambulance,10,1,1,3,59500,N,46-50,301-350,high
+FEMALE,-33800,Multi-vehicle Collision,Front Collision,Total Loss,Police,22,3,1,0,53460,Y,36-40,201-250,medium
+FEMALE,-42000,Multi-vehicle Collision,Side Collision,Total Loss,Ambulance,15,3,0,1,41690,N,31-35,151-200,medium
+FEMALE,-51000,Single Vehicle Collision,Side Collision,Minor Damage,Ambulance,13,1,0,1,63100,N,46-50,301-350,medium
+MALE,-43300,Single Vehicle Collision,Front Collision,Total Loss,Ambulance,23,1,2,1,62880,Y,56-60,451-500,medium
+FEMALE,-38700,Multi-vehicle Collision,Side Collision,Major Damage,Fire,18,3,2,2,75400,Y,51-55,351-400,low
+MALE,-49300,Single Vehicle Collision,Rear Collision,Total Loss,Ambulance,7,1,1,1,46200,N,36-40,201-250,high
+MALE,-39800,Single Vehicle Collision,Rear Collision,Major Damage,Ambulance,21,1,2,2,58500,N,46-50,251-300,medium
+MALE,0,Multi-vehicle Collision,Rear Collision,Major Damage,Other,15,3,1,3,66240,N,56-60,451-500,medium
+FEMALE,0,Multi-vehicle Collision,Rear Collision,Total Loss,Ambulance,17,3,1,3,65440,N,36-40,201-250,medium
+MALE,0,Single Vehicle Collision,Front Collision,Minor Damage,Fire,2,1,0,3,64200,N,41-45,251-300,high
+FEMALE,0,Multi-vehicle Collision,Rear Collision,Minor Damage,Ambulance,1,3,1,0,32320,Y,21-25,51-100,low
+FEMALE,-18600,Single Vehicle Collision,Rear Collision,Major Damage,Police,3,1,0,1,33480,N,26-30,51-100,high
+MALE,0,Vehicle Theft,?,Trivial Damage,None,0,1,1,1,4320,N,36-40,0-50,high
+MALE,-77800,Vehicle Theft,?,Trivial Damage,Police,4,1,0,2,4200,N,26-30,0-50,medium
+MALE,-45700,Multi-vehicle Collision,Front Collision,Minor Damage,Ambulance,11,3,2,0,57970,Y,26-30,0-50,medium
+MALE,-40400,Parked Car,?,Trivial Damage,None,4,1,1,2,4320,N,31-35,101-150,medium
+FEMALE,-61400,Multi-vehicle Collision,Front Collision,Minor Damage,Fire,11,3,0,2,69300,N,41-45,251-300,low
+FEMALE,-93600,Multi-vehicle Collision,Side Collision,Minor Damage,Police,4,3,2,2,32480,N,26-30,151-200,medium
+MALE,-64500,Single Vehicle Collision,Front Collision,Total Loss,Police,20,1,2,2,60480,N,36-40,201-250,medium
+MALE,0,Parked Car,?,Trivial Damage,Police,22,1,0,0,2640,Y,36-40,0-50,low
+MALE,-66500,Parked Car,?,Trivial Damage,Police,4,1,0,3,6050,N,26-30,51-100,medium
+MALE,-44800,Multi-vehicle Collision,Rear Collision,Total Loss,Ambulance,21,4,0,0,42700,Y,41-45,201-250,high
+MALE,-53300,Single Vehicle Collision,Front Collision,Major Damage,Ambulance,20,1,1,3,40260,Y,46-50,301-350,high
+MALE,-47200,Single Vehicle Collision,Rear Collision,Major Damage,Fire,7,1,2,0,50000,Y,46-50,301-350,medium
+FEMALE,0,Parked Car,?,Trivial Damage,None,4,1,0,1,3840,N,31-35,151-200,medium
+MALE,-51300,Multi-vehicle Collision,Rear Collision,Minor Damage,Police,17,3,0,2,95900,N,41-45,201-250,medium
+MALE,-61400,Multi-vehicle Collision,Side Collision,Minor Damage,Ambulance,20,3,1,3,56160,N,46-50,301-350,medium
+MALE,-36300,Single Vehicle Collision,Side Collision,Major Damage,Police,10,1,2,3,63030,N,41-45,0-50,medium
+FEMALE,-48000,Single Vehicle Collision,Front Collision,Minor Damage,Police,8,1,2,2,63470,N,41-45,251-300,high
+FEMALE,-53100,Single Vehicle Collision,Front Collision,Major Damage,Police,6,1,0,2,44440,Y,36-40,201-250,medium
+MALE,-67400,Parked Car,?,Minor Damage,Police,4,1,1,1,6600,N,31-35,101-150,high
+MALE,-44500,Multi-vehicle Collision,Side Collision,Minor Damage,Ambulance,17,3,2,0,77200,Y,36-40,101-150,medium
+FEMALE,0,Multi-vehicle Collision,Rear Collision,Total Loss,Other,15,3,0,0,57000,Y,26-30,51-100,low
+FEMALE,-72500,Vehicle Theft,?,Trivial Damage,Police,9,1,2,1,2700,N,41-45,301-350,medium
+MALE,-50600,Single Vehicle Collision,Rear Collision,Total Loss,Police,17,1,2,1,47300,N,36-40,151-200,high
+FEMALE,-35900,Single Vehicle Collision,Rear Collision,Major Damage,Other,13,1,2,3,55110,N,36-40,151-200,medium
+FEMALE,-55900,Vehicle Theft,?,Trivial Damage,Police,5,1,1,0,4320,Y,31-35,151-200,medium
+FEMALE,-60300,Multi-vehicle Collision,Front Collision,Total Loss,Police,23,3,2,2,68760,Y,36-40,151-200,medium
+FEMALE,0,Multi-vehicle Collision,Front Collision,Major Damage,Other,1,2,2,1,74400,Y,31-35,51-100,medium
+FEMALE,0,Multi-vehicle Collision,Rear Collision,Major Damage,Fire,17,4,2,1,35300,Y,31-35,151-200,low
+MALE,-49400,Parked Car,?,Minor Damage,None,3,1,1,3,2640,N,56-60,401-450,medium
+MALE,0,Multi-vehicle Collision,Rear Collision,Total Loss,Ambulance,17,3,1,1,60190,Y,41-45,251-300,low
+FEMALE,-42600,Multi-vehicle Collision,Rear Collision,Major Damage,Fire,23,3,1,3,41580,Y,36-40,151-200,medium
+FEMALE,-47900,Single Vehicle Collision,Side Collision,Minor Damage,Ambulance,13,1,0,0,58500,Y,41-45,251-300,medium
+FEMALE,0,Single Vehicle Collision,Rear Collision,Minor Damage,Fire,17,1,2,3,79320,N,41-45,251-300,medium
+FEMALE,0,Single Vehicle Collision,Rear Collision,Minor Damage,Ambulance,2,1,0,2,82610,Y,31-35,151-200,low
+FEMALE,-66300,Multi-vehicle Collision,Rear Collision,Total Loss,Ambulance,23,3,1,3,78600,Y,41-45,0-50,low
+MALE,-70400,Single Vehicle Collision,Front Collision,Minor Damage,Ambulance,17,1,1,2,51390,Y,46-50,251-300,medium
+MALE,0,Single Vehicle Collision,Side Collision,Major Damage,Ambulance,3,1,1,0,70200,Y,41-45,201-250,high
+MALE,-51100,Parked Car,?,Minor Damage,None,16,1,2,1,4900,N,26-30,51-100,high
+FEMALE,-49500,Multi-vehicle Collision,Side Collision,Major Damage,Other,13,3,1,3,66480,Y,61-65,451-500,medium
+MALE,0,Single Vehicle Collision,Rear Collision,Major Damage,Fire,8,1,2,1,50380,Y,21-25,51-100,medium
+FEMALE,-59500,Single Vehicle Collision,Front Collision,Major Damage,Fire,23,1,0,2,64350,N,61-65,451-500,medium
+MALE,-58700,Multi-vehicle Collision,Rear Collision,Major Damage,Ambulance,15,3,2,3,55400,Y,26-30,101-150,medium
+MALE,0,Single Vehicle Collision,Front Collision,Total Loss,Other,3,1,2,2,49900,N,26-30,101-150,medium
+MALE,0,Multi-vehicle Collision,Side Collision,Minor Damage,Ambulance,4,3,0,3,74880,N,26-30,0-50,medium
+FEMALE,0,Single Vehicle Collision,Front Collision,Minor Damage,Other,8,1,0,0,105820,Y,41-45,251-300,high
+MALE,-36000,Vehicle Theft,?,Trivial Damage,Police,21,1,1,0,7150,Y,41-45,251-300,low
+MALE,-31400,Single Vehicle Collision,Front Collision,Total Loss,Ambulance,23,1,0,0,55800,Y,56-60,451-500,medium
+MALE,-41200,Parked Car,?,Trivial Damage,None,8,1,1,3,5830,N,31-35,101-150,low
+FEMALE,-46400,Single Vehicle Collision,Side Collision,Major Damage,Ambulance,21,1,2,1,85900,Y,41-45,251-300,medium
+MALE,0,Parked Car,?,Minor Damage,Police,5,1,2,3,7110,N,26-30,101-150,low
+MALE,0,Multi-vehicle Collision,Side Collision,Total Loss,Fire,12,3,0,0,36960,Y,41-45,251-300,medium
+FEMALE,0,Multi-vehicle Collision,Rear Collision,Minor Damage,Police,7,3,2,0,64400,Y,36-40,151-200,low
+MALE,0,Parked Car,?,Minor Damage,None,0,1,1,3,1920,N,41-45,251-300,medium
+MALE,0,Single Vehicle Collision,Rear Collision,Major Damage,Police,14,1,0,1,86130,Y,21-25,0-50,medium
+FEMALE,0,Single Vehicle Collision,Side Collision,Major Damage,Fire,13,1,2,3,82170,Y,31-35,101-150,low
+FEMALE,-60400,Single Vehicle Collision,Front Collision,Major Damage,Fire,1,1,1,0,50300,Y,41-45,251-300,medium
+FEMALE,0,Single Vehicle Collision,Side Collision,Major Damage,Police,23,1,0,0,44200,Y,31-35,101-150,medium
+FEMALE,0,Single Vehicle Collision,Side Collision,Major Damage,Ambulance,1,1,2,2,66660,N,41-45,201-250,medium
+FEMALE,0,Single Vehicle Collision,Front Collision,Total Loss,Ambulance,9,1,2,3,78320,N,26-30,101-150,high
+FEMALE,-60000,Single Vehicle Collision,Rear Collision,Total Loss,Fire,3,1,0,1,105040,N,31-35,151-200,low
+MALE,0,Single Vehicle Collision,Side Collision,Minor Damage,Fire,0,1,2,1,50700,N,41-45,251-300,medium
+FEMALE,0,Multi-vehicle Collision,Front Collision,Total Loss,Fire,13,3,1,1,51210,N,41-45,301-350,medium
+MALE,0,Multi-vehicle Collision,Rear Collision,Total Loss,Fire,18,3,2,1,51840,N,46-50,351-400,high
+FEMALE,0,Multi-vehicle Collision,Front Collision,Total Loss,Ambulance,17,3,2,3,52800,N,31-35,151-200,medium
+FEMALE,-51400,Single Vehicle Collision,Front Collision,Minor Damage,Fire,11,1,0,0,55200,Y,41-45,201-250,medium
+MALE,-37900,Vehicle Theft,?,Minor Damage,None,0,1,0,3,9100,N,31-35,201-250,medium
+FEMALE,-61000,Multi-vehicle Collision,Rear Collision,Minor Damage,Other,14,3,1,3,67600,N,51-55,401-450,low
+MALE,0,Single Vehicle Collision,Rear Collision,Minor Damage,Other,4,1,1,2,40800,N,31-35,101-150,medium
+MALE,0,Multi-vehicle Collision,Side Collision,Major Damage,Other,2,3,2,1,84500,Y,46-50,351-400,high
+MALE,-43600,Multi-vehicle Collision,Front Collision,Major Damage,Other,9,3,2,2,71610,Y,36-40,151-200,medium
+MALE,0,Multi-vehicle Collision,Rear Collision,Major Damage,Other,21,4,0,2,60600,Y,51-55,351-400,high
+MALE,-44400,Multi-vehicle Collision,Rear Collision,Major Damage,Fire,0,3,2,3,81240,Y,41-45,251-300,medium
+FEMALE,0,Multi-vehicle Collision,Side Collision,Total Loss,Fire,17,3,0,3,29300,N,36-40,251-300,medium
+FEMALE,0,Multi-vehicle Collision,Side Collision,Total Loss,Fire,21,3,1,1,76450,N,31-35,0-50,high
+FEMALE,-62700,Multi-vehicle Collision,Side Collision,Major Damage,Fire,20,3,0,3,49400,N,41-45,301-350,medium
+FEMALE,-45100,Single Vehicle Collision,Side Collision,Total Loss,Ambulance,5,1,0,1,90530,N,36-40,201-250,medium
+FEMALE,-44000,Vehicle Theft,?,Minor Damage,Police,7,1,2,1,8030,N,31-35,51-100,medium
+FEMALE,-32300,Single Vehicle Collision,Side Collision,Minor Damage,Fire,6,1,0,0,63900,Y,36-40,201-250,medium
+MALE,0,Multi-vehicle Collision,Rear Collision,Minor Damage,Fire,2,4,0,2,38640,N,51-55,401-450,low
+MALE,-40000,Multi-vehicle Collision,Rear Collision,Total Loss,Other,19,3,1,1,41490,N,56-60,451-500,medium
+FEMALE,-42100,Multi-vehicle Collision,Side Collision,Minor Damage,Fire,21,3,2,0,79090,Y,31-35,51-100,medium
+MALE,0,Multi-vehicle Collision,Side Collision,Major Damage,Police,3,3,0,0,87900,Y,31-35,151-200,medium
+MALE,-29100,Single Vehicle Collision,Rear Collision,Total Loss,Ambulance,22,1,2,3,53400,N,31-35,51-100,high
+MALE,0,Single Vehicle Collision,Rear Collision,Total Loss,Fire,22,1,2,3,52030,N,36-40,151-200,medium
+MALE,-65300,Single Vehicle Collision,Front Collision,Minor Damage,Ambulance,16,1,0,2,82060,N,56-60,451-500,medium
+FEMALE,0,Single Vehicle Collision,Front Collision,Minor Damage,Ambulance,0,1,0,3,48360,N,31-35,151-200,low
+FEMALE,0,Multi-vehicle Collision,Side Collision,Minor Damage,Other,1,3,2,1,52290,N,31-35,51-100,medium
+MALE,-52100,Multi-vehicle Collision,Rear Collision,Major Damage,Police,19,3,0,3,68200,Y,56-60,451-500,low
+MALE,0,Multi-vehicle Collision,Rear Collision,Major Damage,Other,0,3,2,1,60750,Y,41-45,251-300,high
+FEMALE,-60800,Multi-vehicle Collision,Front Collision,Major Damage,Fire,2,3,0,2,65560,Y,26-30,51-100,very low
+FEMALE,0,Multi-vehicle Collision,Rear Collision,Minor Damage,Police,5,3,1,3,70290,N,46-50,351-400,high
+FEMALE,0,Single Vehicle Collision,Rear Collision,Total Loss,Ambulance,6,1,2,0,45000,Y,36-40,151-200,medium
+FEMALE,-47100,Multi-vehicle Collision,Rear Collision,Total Loss,Fire,21,3,2,1,61800,N,36-40,201-250,medium
+FEMALE,0,Multi-vehicle Collision,Front Collision,Major Damage,Ambulance,11,3,0,0,64570,Y,46-50,251-300,medium
+FEMALE,-62100,Single Vehicle Collision,Rear Collision,Minor Damage,Other,3,1,2,0,70500,Y,61-65,451-500,medium
+MALE,-48500,Multi-vehicle Collision,Side Collision,Total Loss,Police,4,3,2,1,57900,N,36-40,151-200,low
+FEMALE,-52600,Multi-vehicle Collision,Front Collision,Minor Damage,Fire,2,3,1,0,57860,Y,46-50,251-300,medium
+MALE,0,Single Vehicle Collision,Side Collision,Minor Damage,Fire,22,1,1,1,37800,N,36-40,201-250,medium
+FEMALE,-33100,Single Vehicle Collision,Front Collision,Total Loss,Ambulance,8,1,1,3,63300,N,36-40,201-250,medium
+FEMALE,0,Multi-vehicle Collision,Rear Collision,Total Loss,Ambulance,14,3,0,1,44200,N,31-35,151-200,medium
+MALE,-59400,Multi-vehicle Collision,Side Collision,Minor Damage,Police,14,4,1,0,31680,Y,26-30,51-100,medium
+FEMALE,-45100,Parked Car,?,Trivial Damage,Police,5,1,1,2,100,N,31-35,51-100,medium
+FEMALE,0,Single Vehicle Collision,Front Collision,Minor Damage,Fire,18,1,2,1,56340,N,61-65,451-500,medium
+FEMALE,0,Multi-vehicle Collision,Rear Collision,Total Loss,Police,20,3,0,0,69740,Y,36-40,201-250,medium
+MALE,0,Multi-vehicle Collision,Front Collision,Total Loss,Police,0,3,2,2,60480,N,36-40,151-200,medium
+FEMALE,-15700,Multi-vehicle Collision,Rear Collision,Minor Damage,Police,1,3,2,1,80880,N,61-65,451-500,medium
+FEMALE,-68200,Single Vehicle Collision,Front Collision,Total Loss,Fire,10,1,1,2,49390,N,61-65,451-500,high
+FEMALE,-52300,Single Vehicle Collision,Front Collision,Minor Damage,Ambulance,12,1,0,3,69360,N,26-30,51-100,medium
+FEMALE,0,Vehicle Theft,?,Minor Damage,None,6,1,0,1,3740,N,41-45,201-250,high
+MALE,-48700,Parked Car,?,Trivial Damage,None,1,1,0,1,5060,N,31-35,101-150,medium
+FEMALE,-34800,Multi-vehicle Collision,Front Collision,Total Loss,Police,21,3,0,0,35860,Y,46-50,301-350,medium
+MALE,-46900,Multi-vehicle Collision,Front Collision,Major Damage,Ambulance,3,3,2,1,50050,Y,36-40,251-300,medium
+MALE,-61500,Multi-vehicle Collision,Rear Collision,Minor Damage,Fire,14,4,0,0,59070,Y,26-30,51-100,medium
+MALE,-31700,Multi-vehicle Collision,Front Collision,Minor Damage,Fire,19,3,1,2,28440,N,26-30,101-150,medium
+FEMALE,0,Single Vehicle Collision,Front Collision,Major Damage,Fire,7,1,2,1,45540,Y,31-35,101-150,medium
+FEMALE,-57600,Single Vehicle Collision,Rear Collision,Minor Damage,Fire,0,1,0,0,38700,Y,31-35,151-200,medium
+MALE,-52100,Parked Car,?,Trivial Damage,None,6,1,2,1,5830,N,36-40,201-250,medium
+FEMALE,0,Single Vehicle Collision,Rear Collision,Total Loss,Other,0,1,0,2,57240,Y,31-35,51-100,high
+MALE,-36800,Multi-vehicle Collision,Rear Collision,Total Loss,Police,9,3,0,3,46200,N,36-40,151-200,medium
+FEMALE,0,Single Vehicle Collision,Side Collision,Total Loss,Ambulance,23,1,0,1,57700,N,31-35,101-150,medium
+MALE,-41700,Multi-vehicle Collision,Front Collision,Minor Damage,Fire,13,3,2,0,56160,Y,46-50,301-350,high
+MALE,-59500,Multi-vehicle Collision,Side Collision,Total Loss,Fire,0,3,0,3,44400,N,46-50,301-350,high
+MALE,-81100,Single Vehicle Collision,Rear Collision,Major Damage,Ambulance,7,1,2,3,92730,Y,56-60,401-450,high
+FEMALE,0,Single Vehicle Collision,Side Collision,Minor Damage,Fire,23,1,0,1,30700,N,31-35,101-150,low
+FEMALE,0,Single Vehicle Collision,Side Collision,Major Damage,Fire,7,1,2,0,56600,Y,21-25,0-50,high
+FEMALE,-27700,Parked Car,?,Trivial Damage,None,20,1,0,1,3960,N,21-25,0-50,high
+MALE,0,Single Vehicle Collision,Rear Collision,Minor Damage,Police,22,1,0,3,34800,N,26-30,51-100,medium
+FEMALE,0,Multi-vehicle Collision,Rear Collision,Minor Damage,Other,10,3,2,0,79500,Y,36-40,101-150,medium
+FEMALE,0,Single Vehicle Collision,Front Collision,Total Loss,Police,10,1,2,2,56000,N,31-35,201-250,low
+FEMALE,-44200,Single Vehicle Collision,Rear Collision,Minor Damage,Ambulance,17,1,1,0,73260,Y,26-30,101-150,medium
+MALE,0,Parked Car,?,Trivial Damage,None,3,1,2,3,4950,N,46-50,251-300,medium
+MALE,0,Single Vehicle Collision,Rear Collision,Minor Damage,Ambulance,10,1,0,1,48000,N,41-45,301-350,low
+MALE,0,Single Vehicle Collision,Side Collision,Major Damage,Fire,1,1,0,1,52200,N,36-40,0-50,medium
+FEMALE,-111100,Multi-vehicle Collision,Rear Collision,Minor Damage,Ambulance,1,3,2,3,73800,N,36-40,151-200,medium
+FEMALE,-69600,Single Vehicle Collision,Side Collision,Total Loss,Fire,7,1,1,2,78200,N,31-35,101-150,high
+MALE,0,Single Vehicle Collision,Rear Collision,Major Damage,Ambulance,19,1,2,3,55200,Y,31-35,101-150,medium
+FEMALE,-58300,Multi-vehicle Collision,Side Collision,Total Loss,Other,3,3,0,2,57060,N,41-45,251-300,high
+FEMALE,-34700,Vehicle Theft,?,Minor Damage,None,3,1,0,3,4680,N,26-30,101-150,medium
+FEMALE,-63700,Single Vehicle Collision,Front Collision,Minor Damage,Ambulance,23,1,2,0,53100,Y,56-60,401-450,medium
+FEMALE,-55300,Vehicle Theft,?,Minor Damage,None,7,1,1,2,3520,N,46-50,251-300,medium
+FEMALE,-54100,Multi-vehicle Collision,Front Collision,Total Loss,Ambulance,0,3,0,1,72900,N,21-25,51-100,medium
+FEMALE,0,Single Vehicle Collision,Rear Collision,Total Loss,Police,10,1,0,1,70700,N,36-40,201-250,medium
+FEMALE,0,Multi-vehicle Collision,Side Collision,Minor Damage,Other,4,4,0,0,60170,Y,26-30,101-150,medium
+MALE,-40700,Single Vehicle Collision,Rear Collision,Major Damage,Other,16,1,1,1,74800,Y,41-45,251-300,medium
+MALE,0,Vehicle Theft,?,Trivial Damage,Police,3,1,2,0,4100,Y,41-45,251-300,low
+MALE,0,Single Vehicle Collision,Side Collision,Minor Damage,Other,5,1,0,3,61490,N,46-50,351-400,medium
+MALE,0,Vehicle Theft,?,Trivial Damage,None,14,1,0,0,7200,Y,26-30,51-100,high
+FEMALE,0,Multi-vehicle Collision,Side Collision,Minor Damage,Fire,7,3,0,0,45100,Y,31-35,151-200,medium
+MALE,0,Single Vehicle Collision,Front Collision,Minor Damage,Police,16,1,2,3,66660,N,51-55,401-450,medium
+FEMALE,-64500,Single Vehicle Collision,Front Collision,Major Damage,Police,6,1,2,2,76400,Y,41-45,201-250,medium
+FEMALE,0,Single Vehicle Collision,Rear Collision,Total Loss,Ambulance,10,1,1,1,58300,N,36-40,151-200,high
+FEMALE,0,Single Vehicle Collision,Front Collision,Total Loss,Police,19,1,1,1,57310,N,46-50,301-350,medium
+FEMALE,0,Single Vehicle Collision,Front Collision,Minor Damage,Fire,10,1,0,1,53100,N,31-35,151-200,medium
+FEMALE,0,Multi-vehicle Collision,Side Collision,Total Loss,Ambulance,6,3,1,1,74700,N,21-25,51-100,high
+FEMALE,0,Multi-vehicle Collision,Rear Collision,Major Damage,Fire,12,3,2,2,60500,N,26-30,101-150,medium
+MALE,-72100,Multi-vehicle Collision,Side Collision,Total Loss,Other,10,3,2,3,84920,Y,26-30,101-150,medium
+FEMALE,0,Single Vehicle Collision,Side Collision,Total Loss,Police,0,1,2,0,61050,Y,36-40,151-200,medium
+MALE,0,Multi-vehicle Collision,Rear Collision,Major Damage,Police,12,3,2,0,69080,Y,26-30,51-100,low
+FEMALE,-44500,Vehicle Theft,?,Minor Damage,None,10,1,1,3,4560,N,46-50,301-350,medium
+FEMALE,0,Multi-vehicle Collision,Rear Collision,Total Loss,Police,3,4,0,1,67800,N,26-30,101-150,high
+MALE,-31900,Vehicle Theft,?,Minor Damage,Police,21,1,1,1,5600,N,31-35,101-150,medium
+MALE,-53200,Vehicle Theft,?,Minor Damage,None,6,1,0,2,9000,N,51-55,351-400,medium
+FEMALE,0,Single Vehicle Collision,Rear Collision,Total Loss,Police,0,1,0,1,85320,N,41-45,251-300,low
+FEMALE,-33300,Vehicle Theft,?,Trivial Damage,None,6,1,0,3,5940,Y,21-25,0-50,medium
+FEMALE,0,Multi-vehicle Collision,Side Collision,Major Damage,Fire,20,3,1,1,51370,Y,31-35,151-200,medium
+MALE,-48800,Single Vehicle Collision,Rear Collision,Major Damage,Police,4,1,2,2,51600,N,41-45,201-250,medium
+FEMALE,0,Parked Car,?,Trivial Damage,None,9,1,0,3,5400,N,41-45,251-300,low
+MALE,0,Multi-vehicle Collision,Rear Collision,Minor Damage,Fire,20,3,1,0,48870,Y,36-40,201-250,high
+FEMALE,0,Vehicle Theft,?,Minor Damage,Police,7,1,2,1,5590,N,41-45,251-300,medium
+MALE,-71400,Multi-vehicle Collision,Front Collision,Major Damage,Other,18,3,0,2,54960,Y,46-50,301-350,medium
+FEMALE,0,Multi-vehicle Collision,Side Collision,Minor Damage,Police,0,3,1,3,39800,N,46-50,251-300,medium
+FEMALE,0,Multi-vehicle Collision,Side Collision,Major Damage,Ambulance,11,3,0,1,56160,Y,36-40,151-200,medium
+MALE,-79400,Single Vehicle Collision,Side Collision,Total Loss,Fire,13,1,0,3,52700,N,41-45,251-300,medium
+FEMALE,0,Multi-vehicle Collision,Side Collision,Minor Damage,Fire,19,3,1,3,68580,N,41-45,301-350,medium
+MALE,-54400,Single Vehicle Collision,Side Collision,Major Damage,Ambulance,23,1,1,2,90860,Y,56-60,401-450,medium
+MALE,0,Parked Car,?,Trivial Damage,Police,23,1,0,3,5700,N,51-55,351-400,medium
+MALE,-75000,Multi-vehicle Collision,Side Collision,Total Loss,Police,19,3,2,0,94930,Y,21-25,0-50,high
+MALE,0,Single Vehicle Collision,Side Collision,Major Damage,Ambulance,19,1,1,2,46800,Y,41-45,251-300,medium
+FEMALE,-51800,Multi-vehicle Collision,Side Collision,Total Loss,Fire,17,3,2,3,56320,N,46-50,301-350,medium
+MALE,-41400,Single Vehicle Collision,Front Collision,Minor Damage,Fire,18,1,1,3,83490,N,46-50,251-300,high
+FEMALE,-63500,Multi-vehicle Collision,Side Collision,Total Loss,Police,17,3,2,2,57900,N,36-40,0-50,medium
+MALE,0,Multi-vehicle Collision,Rear Collision,Total Loss,Fire,11,3,1,3,49410,N,36-40,201-250,medium
+MALE,0,Multi-vehicle Collision,Side Collision,Minor Damage,Fire,22,3,0,1,66200,N,41-45,301-350,medium
+MALE,0,Single Vehicle Collision,Front Collision,Minor Damage,Fire,7,1,0,1,64080,N,46-50,251-300,medium
+FEMALE,0,Multi-vehicle Collision,Side Collision,Minor Damage,Other,17,3,2,3,42500,N,41-45,201-250,low
+MALE,-40800,Multi-vehicle Collision,Side Collision,Total Loss,Other,16,3,2,3,48950,N,26-30,101-150,medium
+FEMALE,-45300,Multi-vehicle Collision,Rear Collision,Minor Damage,Other,13,3,1,2,58850,N,41-45,201-250,medium
+FEMALE,0,Multi-vehicle Collision,Side Collision,Minor Damage,Other,17,3,0,2,82400,N,36-40,201-250,high
+FEMALE,-48800,Single Vehicle Collision,Rear Collision,Minor Damage,Ambulance,3,1,2,0,54240,Y,41-45,301-350,high
+FEMALE,0,Multi-vehicle Collision,Front Collision,Minor Damage,Other,15,3,0,2,74200,N,26-30,51-100,medium
+FEMALE,0,Single Vehicle Collision,Front Collision,Total Loss,Fire,16,1,2,1,47430,N,51-55,401-450,medium
+FEMALE,-64500,Single Vehicle Collision,Rear Collision,Major Damage,Fire,18,1,1,3,68200,Y,41-45,201-250,high
+FEMALE,0,Single Vehicle Collision,Front Collision,Minor Damage,Fire,18,1,1,0,63900,Y,31-35,151-200,medium
+FEMALE,-58900,Multi-vehicle Collision,Rear Collision,Total Loss,Ambulance,22,2,0,3,59300,N,36-40,201-250,medium
+FEMALE,-61600,Multi-vehicle Collision,Front Collision,Minor Damage,Other,15,3,1,2,66900,Y,41-45,251-300,medium
+MALE,-51000,Multi-vehicle Collision,Rear Collision,Major Damage,Police,16,3,1,3,40810,Y,26-30,51-100,low
+FEMALE,-72100,Single Vehicle Collision,Front Collision,Total Loss,Fire,18,1,1,0,75400,Y,41-45,251-300,low
+FEMALE,-61100,Parked Car,?,Minor Damage,None,8,1,2,0,4200,Y,31-35,101-150,medium
+FEMALE,0,Multi-vehicle Collision,Side Collision,Major Damage,Ambulance,23,3,0,0,52650,Y,41-45,301-350,medium
+FEMALE,-46000,Single Vehicle Collision,Rear Collision,Major Damage,Ambulance,18,1,0,2,42240,N,46-50,301-350,medium
+FEMALE,0,Single Vehicle Collision,Side Collision,Minor Damage,Other,10,1,1,0,59490,Y,36-40,201-250,medium
+MALE,0,Single Vehicle Collision,Side Collision,Major Damage,Ambulance,12,1,0,2,44200,Y,36-40,201-250,medium
+FEMALE,-49300,Vehicle Theft,?,Trivial Damage,Police,5,1,1,2,7700,N,36-40,251-300,high
+MALE,0,Multi-vehicle Collision,Front Collision,Total Loss,Other,21,3,2,3,61440,N,56-60,401-450,medium
+FEMALE,0,Multi-vehicle Collision,Rear Collision,Major Damage,Fire,17,3,1,3,54400,Y,36-40,151-200,high
+MALE,0,Single Vehicle Collision,Front Collision,Total Loss,Other,4,1,2,1,58560,N,46-50,351-400,medium
+MALE,0,Single Vehicle Collision,Front Collision,Major Damage,Fire,11,1,1,1,67300,Y,31-35,101-150,medium
+MALE,-49700,Single Vehicle Collision,Rear Collision,Major Damage,Fire,18,1,1,3,36740,Y,51-55,401-450,medium
+FEMALE,0,Single Vehicle Collision,Rear Collision,Total Loss,Police,12,1,0,0,85690,Y,26-30,0-50,medium
+FEMALE,0,Multi-vehicle Collision,Side Collision,Major Damage,Ambulance,18,3,0,3,34160,Y,31-35,101-150,medium
+MALE,-72000,Single Vehicle Collision,Front Collision,Minor Damage,Fire,16,1,2,2,61320,N,46-50,251-300,medium
+MALE,0,Multi-vehicle Collision,Rear Collision,Total Loss,Police,19,3,0,0,79680,Y,41-45,251-300,medium
+FEMALE,0,Single Vehicle Collision,Front Collision,Total Loss,Fire,13,1,1,0,61740,Y,26-30,101-150,high
+MALE,-50500,Parked Car,?,Minor Damage,None,4,1,0,0,6400,Y,51-55,451-500,medium
+FEMALE,0,Single Vehicle Collision,Rear Collision,Major Damage,Fire,8,1,1,2,60600,N,51-55,351-400,medium
+FEMALE,0,Multi-vehicle Collision,Side Collision,Major Damage,Ambulance,19,3,2,0,56320,Y,36-40,151-200,medium
+FEMALE,0,Single Vehicle Collision,Side Collision,Total Loss,Ambulance,18,1,2,0,52250,Y,31-35,151-200,medium
+FEMALE,-44800,Multi-vehicle Collision,Rear Collision,Total Loss,Other,9,2,0,3,53900,N,56-60,451-500,medium
+MALE,-43400,Vehicle Theft,?,Trivial Damage,None,6,1,2,1,2640,N,31-35,201-250,medium
+MALE,0,Vehicle Theft,?,Minor Damage,None,8,1,0,0,8970,Y,31-35,0-50,medium
+MALE,0,Parked Car,?,Minor Damage,None,6,1,1,3,6000,N,31-35,0-50,medium
+MALE,0,Multi-vehicle Collision,Front Collision,Major Damage,Fire,23,3,0,3,55200,Y,36-40,151-200,medium
+MALE,0,Parked Car,?,Trivial Damage,None,13,1,0,3,7260,N,41-45,251-300,high
+FEMALE,0,Multi-vehicle Collision,Front Collision,Minor Damage,Police,3,3,2,0,64680,Y,36-40,151-200,medium
+FEMALE,0,Single Vehicle Collision,Rear Collision,Major Damage,Police,23,1,0,1,59200,N,41-45,201-250,low
+FEMALE,0,Vehicle Theft,?,Minor Damage,None,8,1,1,3,4700,N,31-35,101-150,medium
+MALE,0,Single Vehicle Collision,Side Collision,Total Loss,Other,23,1,0,3,69400,N,31-35,0-50,medium
+FEMALE,0,Single Vehicle Collision,Side Collision,Total Loss,Police,23,1,0,0,40500,Y,21-25,0-50,low
+MALE,-51800,Multi-vehicle Collision,Side Collision,Minor Damage,Fire,9,3,2,1,60000,N,26-30,51-100,medium
+MALE,-63700,Single Vehicle Collision,Side Collision,Minor Damage,Other,22,1,2,3,67320,N,26-30,101-150,medium
+FEMALE,-49300,Multi-vehicle Collision,Side Collision,Total Loss,Other,22,3,2,1,75690,N,26-30,101-150,high
+MALE,0,Multi-vehicle Collision,Side Collision,Major Damage,Fire,15,3,1,2,64300,Y,31-35,101-150,medium
+MALE,-20900,Multi-vehicle Collision,Rear Collision,Major Damage,Police,16,3,2,0,64400,Y,41-45,201-250,high
+FEMALE,-39100,Multi-vehicle Collision,Front Collision,Minor Damage,Fire,17,3,1,2,97080,N,51-55,401-450,low
+MALE,0,Vehicle Theft,?,Minor Damage,Police,3,1,1,0,5500,Y,41-45,251-300,medium
+FEMALE,-50300,Multi-vehicle Collision,Rear Collision,Total Loss,Other,10,3,0,2,30700,N,36-40,201-250,medium
+FEMALE,0,Single Vehicle Collision,Side Collision,Minor Damage,Police,9,1,1,2,33480,N,46-50,251-300,medium
+MALE,-30900,Multi-vehicle Collision,Front Collision,Total Loss,Police,13,2,0,1,65430,N,26-30,101-150,medium
+MALE,-52500,Multi-vehicle Collision,Rear Collision,Major Damage,Police,15,3,2,1,42680,Y,36-40,151-200,medium
+MALE,0,Single Vehicle Collision,Side Collision,Minor Damage,Fire,23,1,1,1,87780,N,41-45,251-300,medium
+FEMALE,-67000,Multi-vehicle Collision,Front Collision,Major Damage,Fire,2,4,0,2,72800,N,36-40,101-150,low
+FEMALE,0,Single Vehicle Collision,Rear Collision,Major Damage,Fire,14,1,2,0,71190,Y,36-40,201-250,low
+MALE,-70900,Vehicle Theft,?,Trivial Damage,None,7,1,1,1,3600,N,36-40,151-200,low
+MALE,0,Single Vehicle Collision,Side Collision,Major Damage,Other,23,1,1,3,62640,N,41-45,201-250,medium
+MALE,0,Multi-vehicle Collision,Front Collision,Minor Damage,Ambulance,7,3,2,1,69630,N,36-40,151-200,medium
+MALE,-68800,Multi-vehicle Collision,Rear Collision,Minor Damage,Police,8,3,1,0,76010,Y,31-35,151-200,medium
+MALE,-43500,Single Vehicle Collision,Rear Collision,Total Loss,Other,17,1,1,0,44220,Y,36-40,201-250,high
+FEMALE,0,Multi-vehicle Collision,Rear Collision,Minor Damage,Other,10,3,0,3,57200,N,36-40,151-200,medium
+MALE,0,Vehicle Theft,?,Minor Damage,Police,9,1,0,3,3080,N,31-35,51-100,medium
+FEMALE,0,Single Vehicle Collision,Rear Collision,Total Loss,Other,2,1,1,0,75790,Y,31-35,51-100,low
+FEMALE,-46500,Multi-vehicle Collision,Rear Collision,Minor Damage,Ambulance,18,3,0,1,32670,N,26-30,101-150,medium
+FEMALE,-65500,Vehicle Theft,?,Minor Damage,Police,4,1,2,3,3870,N,46-50,251-300,medium
+FEMALE,0,Single Vehicle Collision,Front Collision,Total Loss,Fire,12,1,0,3,91520,Y,36-40,201-250,medium
+MALE,0,Single Vehicle Collision,Front Collision,Major Damage,Other,15,1,1,3,74690,Y,31-35,151-200,medium
+MALE,-15900,Vehicle Theft,?,Trivial Damage,Police,9,1,1,3,4620,N,26-30,51-100,high
+FEMALE,0,Single Vehicle Collision,Side Collision,Major Damage,Police,6,1,0,0,55000,Y,31-35,101-150,medium
+FEMALE,0,Multi-vehicle Collision,Rear Collision,Major Damage,Police,11,4,0,2,59400,Y,46-50,301-350,high
+FEMALE,-61200,Multi-vehicle Collision,Side Collision,Total Loss,Fire,13,3,1,1,55260,N,31-35,101-150,medium
+MALE,0,Multi-vehicle Collision,Side Collision,Minor Damage,Other,4,3,2,1,51400,N,41-45,251-300,low
+FEMALE,-59800,Multi-vehicle Collision,Side Collision,Minor Damage,Ambulance,20,3,1,3,48780,N,36-40,0-50,medium
+FEMALE,0,Multi-vehicle Collision,Rear Collision,Major Damage,Ambulance,0,3,1,3,52380,N,31-35,151-200,medium
+FEMALE,-43900,Multi-vehicle Collision,Side Collision,Total Loss,Other,18,4,2,3,74360,Y,31-35,151-200,medium
+MALE,-20800,Single Vehicle Collision,Front Collision,Minor Damage,Police,6,1,1,0,53400,Y,36-40,201-250,high
+FEMALE,0,Single Vehicle Collision,Front Collision,Total Loss,Police,23,1,2,2,71800,N,56-60,451-500,high
+FEMALE,0,Single Vehicle Collision,Front Collision,Major Damage,Other,4,1,0,0,68240,Y,31-35,151-200,medium
+FEMALE,-30700,Multi-vehicle Collision,Rear Collision,Major Damage,Other,21,3,1,0,61050,Y,41-45,251-300,medium
+FEMALE,-41400,Parked Car,?,Minor Damage,None,7,1,1,1,5590,N,46-50,301-350,medium
+FEMALE,0,Multi-vehicle Collision,Side Collision,Major Damage,Fire,19,3,0,0,46860,Y,46-50,251-300,low
+FEMALE,-54300,Parked Car,?,Minor Damage,None,5,1,1,3,4290,N,31-35,101-150,medium
+FEMALE,0,Multi-vehicle Collision,Front Collision,Minor Damage,Police,22,3,0,0,78500,Y,56-60,401-450,medium
+MALE,-49700,Single Vehicle Collision,Side Collision,Total Loss,Police,12,1,1,3,70830,N,41-45,251-300,low
+MALE,-66100,Multi-vehicle Collision,Front Collision,Total Loss,Police,19,3,0,2,68040,N,56-60,401-450,medium
+FEMALE,-87300,Single Vehicle Collision,Side Collision,Major Damage,Fire,10,1,2,0,63600,Y,31-35,0-50,medium
+FEMALE,0,Single Vehicle Collision,Side Collision,Minor Damage,Other,7,1,0,3,43560,N,61-65,451-500,medium
+MALE,-45800,Single Vehicle Collision,Front Collision,Total Loss,Police,17,1,1,1,60840,N,31-35,101-150,medium
+FEMALE,-57700,Multi-vehicle Collision,Side Collision,Total Loss,Police,0,3,2,3,68160,N,51-55,401-450,medium
+FEMALE,-43700,Parked Car,?,Minor Damage,None,9,1,1,0,5170,Y,26-30,101-150,low
+FEMALE,0,Single Vehicle Collision,Side Collision,Total Loss,Ambulance,21,1,0,3,57700,N,36-40,151-200,medium
+FEMALE,0,Multi-vehicle Collision,Front Collision,Total Loss,Other,22,3,0,2,89520,N,46-50,251-300,medium
+MALE,-44400,Vehicle Theft,?,Minor Damage,None,3,1,1,0,4620,Y,41-45,201-250,high
+FEMALE,-36600,Single Vehicle Collision,Rear Collision,Minor Damage,Ambulance,16,1,0,3,45180,N,36-40,251-300,medium
+MALE,-50000,Single Vehicle Collision,Side Collision,Total Loss,Other,14,1,0,0,45100,Y,36-40,151-200,medium
+MALE,-48600,Multi-vehicle Collision,Side Collision,Total Loss,Police,21,3,0,3,83160,N,31-35,51-100,medium
+FEMALE,0,Single Vehicle Collision,Rear Collision,Minor Damage,Police,19,1,2,1,86130,N,41-45,201-250,medium
+MALE,0,Multi-vehicle Collision,Front Collision,Major Damage,Fire,13,3,1,3,48000,N,21-25,0-50,medium
+FEMALE,-45300,Vehicle Theft,?,Minor Damage,Police,21,1,0,0,3300,Y,31-35,101-150,medium
+FEMALE,0,Multi-vehicle Collision,Rear Collision,Minor Damage,Ambulance,11,3,1,2,57200,N,31-35,201-250,medium
+FEMALE,-48800,Vehicle Theft,?,Trivial Damage,Police,16,1,2,0,7590,Y,31-35,101-150,medium
+FEMALE,-89400,Single Vehicle Collision,Rear Collision,Total Loss,Police,9,1,0,2,80080,N,36-40,151-200,medium
+FEMALE,-70100,Vehicle Theft,?,Minor Damage,Police,8,1,0,0,4800,Y,26-30,101-150,medium
+FEMALE,-36400,Vehicle Theft,?,Minor Damage,Police,7,1,2,1,3900,Y,36-40,151-200,medium
+MALE,0,Single Vehicle Collision,Front Collision,Minor Damage,Other,12,1,0,0,90400,Y,26-30,51-100,medium
+FEMALE,0,Multi-vehicle Collision,Rear Collision,Minor Damage,Other,21,3,0,0,62900,Y,26-30,51-100,medium
+FEMALE,0,Single Vehicle Collision,Rear Collision,Major Damage,Police,4,1,1,2,54200,Y,31-35,151-200,medium
+FEMALE,0,Multi-vehicle Collision,Side Collision,Major Damage,Police,18,3,2,2,51800,N,46-50,351-400,medium
+MALE,0,Vehicle Theft,?,Trivial Damage,Police,7,1,2,3,6600,N,51-55,401-450,low
+MALE,-77700,Single Vehicle Collision,Side Collision,Total Loss,Fire,13,1,2,0,74140,Y,31-35,201-250,low
+FEMALE,-35200,Single Vehicle Collision,Front Collision,Total Loss,Fire,0,1,2,1,67800,N,21-25,51-100,high
+MALE,0,Single Vehicle Collision,Rear Collision,Major Damage,Fire,22,1,1,1,55400,Y,41-45,201-250,medium
+MALE,-51500,Single Vehicle Collision,Rear Collision,Major Damage,Ambulance,15,1,2,3,49100,Y,36-40,201-250,medium
+FEMALE,-78600,Multi-vehicle Collision,Side Collision,Major Damage,Police,3,3,2,1,98280,Y,41-45,201-250,low
+FEMALE,-70900,Multi-vehicle Collision,Rear Collision,Total Loss,Fire,18,2,0,2,66550,N,36-40,251-300,high
+FEMALE,-5700,Multi-vehicle Collision,Side Collision,Major Damage,Fire,17,3,2,2,70400,N,31-35,101-150,medium
+MALE,-49600,Multi-vehicle Collision,Side Collision,Major Damage,Ambulance,18,3,1,1,53280,Y,41-45,251-300,medium
+FEMALE,0,Single Vehicle Collision,Front Collision,Total Loss,Other,11,1,2,3,84590,N,31-35,51-100,low
+FEMALE,-55400,Single Vehicle Collision,Rear Collision,Total Loss,Other,17,1,0,2,54560,N,36-40,201-250,medium
+MALE,0,Single Vehicle Collision,Rear Collision,Minor Damage,Ambulance,12,1,0,2,82170,N,36-40,251-300,medium
+MALE,-65800,Multi-vehicle Collision,Front Collision,Total Loss,Police,15,3,1,2,61100,N,41-45,51-100,medium
+MALE,0,Multi-vehicle Collision,Front Collision,Minor Damage,Police,0,3,0,3,51900,Y,41-45,201-250,medium
+FEMALE,-80800,Parked Car,?,Trivial Damage,Police,9,1,2,1,3440,N,36-40,0-50,low
+MALE,-49900,Single Vehicle Collision,Side Collision,Total Loss,Ambulance,1,1,2,1,51390,N,36-40,151-200,high
+MALE,-21500,Single Vehicle Collision,Side Collision,Major Damage,Other,22,1,0,2,76900,N,31-35,0-50,high
+MALE,-58400,Single Vehicle Collision,Rear Collision,Minor Damage,Other,11,1,2,3,77000,Y,41-45,201-250,low
+MALE,0,Single Vehicle Collision,Side Collision,Major Damage,Other,10,1,0,3,60320,Y,36-40,201-250,medium
+FEMALE,0,Single Vehicle Collision,Rear Collision,Minor Damage,Fire,5,1,1,1,60700,N,46-50,301-350,high
+FEMALE,-54000,Multi-vehicle Collision,Rear Collision,Total Loss,Police,3,3,1,2,53280,N,21-25,0-50,medium
+FEMALE,-32800,Single Vehicle Collision,Rear Collision,Minor Damage,Fire,18,1,2,2,34290,N,41-45,251-300,high
+MALE,-32200,Single Vehicle Collision,Rear Collision,Total Loss,Other,21,1,0,1,46980,N,41-45,251-300,medium
+MALE,0,Multi-vehicle Collision,Front Collision,Major Damage,Fire,6,3,1,2,36700,N,26-30,51-100,low
+MALE,-32100,Multi-vehicle Collision,Side Collision,Total Loss,Other,20,3,0,1,60200,N,26-30,101-150,medium
+MALE,-82100,Parked Car,?,Minor Damage,None,6,1,1,2,6480,N,26-30,101-150,medium
+FEMALE,0,Single Vehicle Collision,Front Collision,Minor Damage,Fire,20,1,0,1,87200,N,36-40,0-50,medium
+FEMALE,0,Single Vehicle Collision,Rear Collision,Major Damage,Fire,23,1,2,3,108480,N,41-45,251-300,medium
+FEMALE,0,Multi-vehicle Collision,Side Collision,Minor Damage,Police,4,3,2,3,67500,N,31-35,101-150,medium
+MALE,0,Single Vehicle Collision,Rear Collision,Major Damage,Other,2,1,0,1,46980,N,61-65,451-500,medium
+FEMALE,0,Parked Car,?,Minor Damage,Police,6,1,0,3,5060,N,56-60,451-500,low

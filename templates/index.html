@@ -1,0 +1,333 @@
+<html lang="en" dir="ltr">
+
+<head>
+  <meta charset="UTF-8">
+  <title> Responsive Registration Form | CodingLab </title>
+  <link rel="stylesheet" type="text/css" href="{{ url_for ('static', filename='styles/style1.css')}}">
+
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+</head>
+
+<body>
+  <nav>
+    <div class="menu">
+      <div class="logo">
+        <a href="home">Insurance Fraud Detection</a>
+      </div>
+      <ul>
+        <li><a href="home">Home</a></li>
+        <li><a href="#">About</a></li>
+        <li><a href="index">Prediction</a></li>
+
+      </ul>
+    </div>
+  </nav>
+  <div class="img"></div>
+  <div class="container">
+    <div class="title">Insurance Fraud Detection</div>
+    <div class="content">
+
+      <form action="/data_predict" method="POST" id="form" onsubmit="return validateTheForm()">
+        <div class="user-details">
+
+
+          <div class="input-box">
+            <span class="details">Month</span>
+            <select name="sex" class="form-control" id="sex" required="">
+              <option value="" selected="" disabled="" hidden="">Select an Option</option>
+              <option value="1">January</option>
+              <option value="2">February</option>
+              <option value="3">March</option>
+              <option value="4">April</option>
+              <option value="5">May</option>
+              <option value="6">June</option>
+              <option value="7">July</option>
+              <option value="8">August</option>
+              <option value="9">September</option>
+              <option value="10">October</option>
+              <option value="11">November</option>
+              <option value="12">December</option>
+            </select>
+          </div>
+
+
+
+          <div class="input-box">
+            <span class="details">Day Of Week</span>
+            <select name="dow" class="form-control" id="dow" required="">
+              <option value="" selected="" disabled="" hidden="">Select an Option</option>
+              <option value="1">Monday</option>
+              <option value="2">Tuesday</option>
+              <option value="3">Wednesday</option>
+              <option value="4">Thursday</option>
+              <option value="5">Friday</option>
+              <option value="6">Saturday</option>
+              <option value="7">Sunday</option>
+            </select>
+            
+          </div>
+
+
+          <div class="input-box">
+            <span class="details">Car Model</span>
+            <select name="model" class="form-control" id="model" required>
+              <option label="Please Select" value="">Select Option</option>
+              <option value="0">Accura</option>
+              <option value="1">BMW</option>
+              <option value="2">Chevrolet</option>
+              <option value="3">Dodge</option>
+              <option value="4">Ferrari</option>
+              <option value="5">Ford</option>
+              <option value="6">Honda</option>
+              <option value="7">Jaguar</option>
+              <option value="8">Lexus</option>
+              <option value="9">Mazda</option>
+              <option value="10">Mecedes</option>
+              <option value="11">Mercury</option>
+              <option value="12">Nisson</option>
+              <option value="13">Pontiac</option>
+              <option value="14">Porche</option>
+              <option value="15">Saab</option>
+              <option value="16">Saturn</option>
+              <option value="17">Toyota</option>
+              <option value="18">VW</option>
+            </select>
+          </div>
+
+
+          <div class="input-box">
+            <span class="details">Area Of Accident</span>
+            <select name="ctype" class="form-control" id="ctype" required>
+              <option value="" selected="" disabled="" hidden="">Select an Option</option>
+              <option value="0">Rural</option>
+              <option value="1">Urban</option>
+            </select>
+          </div>
+
+
+          
+
+          <div class="input-box">
+            <span class="details">Gender</span>
+            <select name="s" class="form-control" id="s" required>
+              <option value="" selected="" disabled="" hidden="">Select an Option</option>
+              <<option value="0">Female</option>
+              <option value="1">Male</option>
+            </select>
+          </div>	
+
+          
+
+          <div class="input-box">
+            <span class="details">Marital Status</span>
+            <select name="u" class="form-control" id="u" required>
+              <option value="" selected="" disabled="" hidden="">Select an Option</option>
+              <option value="1">Married</option>
+              <option value="2">Single</option>
+              
+            </select>
+          </div>
+
+      
+
+
+          <div class="input-box">
+            <span class="details">Age</span>
+            <input type="text" name="age" placeholder="Age" id="age" required="">
+          </div>
+
+
+          <div class="input-box">
+            <span class="details">PolicyType</span>
+            <select name="pt" class="form-control" id="pt" required>
+              <option value="" selected="" disabled="" hidden="">Select an Option</option>
+              <option value="0">Sedan - All Perils</option>
+              <option value="1">Sedan - Collision</option>
+              <option value="2">Sedan - Liability</option>
+              <option value="3">Sport - All Perils</option>
+              <option value="4">Sport - Collision</option>
+              <option value="5">Sport - Liability</option>
+              <option value="6">Utility - All Perils</option>
+              <option value="7">Utility - Collision</option>
+              <option value="8">Utility - Liability</option>
+                        
+            </select>
+          </div>
+
+
+
+
+          <div class="input-box">
+            <span class="details">VehicleCategorys</span>
+            <select name="l" class="form-control" id="l" required>
+              <option value="" selected="" disabled="" hidden="">Select an Option</option>
+              <option value="0">Sedan</option>
+              <option value="1">Sport</option>
+              <option value="2">Utility</option>
+              
+            </select>
+          </div>
+
+
+
+
+     
+
+          <div class="input-box">
+            <span class="details">DriverRating</span>
+            <select name="pp" class="form-control" id="pp" required>
+              <option value="" selected="" disabled="" hidden="">Select an Option</option>
+            
+              <option value="1">2.5</option>
+              <option value="2">5</option>
+              <option value="3">7.5</option>
+              <option value="4">10</option>
+              
+                        
+            </select>
+          </div>
+          <div class="input-box">
+            <span class="details">Days policy accident</span>
+            <select name="dp" class="form-control" id="dp" required>
+              <option value="" selected="" disabled="" hidden="">Select an Option</option>
+         
+            <option value="0">none</option>
+            <option value="1">1 to 7</option>
+            <option value="2">8 to 15</option>
+            <option value="3">15 to 30</option>
+            <option value="4">more than 30</option>
+        </select>
+        </div>
+        
+        <div class="input-box">
+          <span class="details">Days policy claim</span>
+          <select name="pc" class="form-control" id="pc" required>
+            <option value="" selected="" disabled="" hidden="">Select an Option</option>
+            <option value="0">none</option>
+            <option value="1">1 to 7</option>
+            <option value="2">8 to 15</option>
+            <option value="3">15 to 30</option>
+            <option value="4">more than 30</option>
+        </select>
+      </div>
+
+
+
+          <div class="input-box">
+            <span class="details">PastNumberOfClaims</span>
+            <select name="ag" class="form-control" id="ag" required>
+              <option value="" selected="" disabled="" hidden="">Select an Option</option>
+              <option value="0">none</option>
+              <option value="1">1</option>
+              <option value="2">2 to 4</option>
+              <option value="3">more than 4</option>>
+            </select>
+          </div>
+
+
+          <div class="input-box">
+            <span class="details">Age of vehicle</span>
+            <select name="av" class="form-control" id="av" required>
+              <option value="" selected="" disabled="" hidden="" required>Select an Option</option>
+              <option value="0">new</option>
+    <option value="2">2 years</option>
+    <option value="3">3 years</option>
+    <option value="4">4 years</option>
+    <option value="5">5 years</option>
+    <option value="6">6 years</option>
+    <option value="7">7 years</option>
+    <option value="8">more than 7</option>
+            </select>
+          </div>
+
+
+          <div class="input-box">
+            <span class="details">Police Report</span>
+            <select name="x" class="form-control" id="x" required>
+              <option value="" selected="" disabled="" hidden="">Select an Option</option>
+              <option value="1">Yes</option>
+            <option value="0">No</option>
+            </select>
+          </div>
+          <div class="input-box">
+            <span class="details">witness</span>
+            <select name="y" class="form-control" id="y" required>
+              <option value="" selected="" disabled="" hidden="">Select an Option</option>
+              <option value="1">Yes</option>
+            <option value="0">No</option>
+            </select>
+          </div>
+          
+          <div class="input-box">
+            <span class="details">Number of cars</span>
+            <select name="z" class="form-control" id="z" required>
+              <option value="" selected="" disabled="" hidden="">Select an Option</option>
+              <option value="1">1 vehicle</option>
+          <option value="2">2 vehicles</option>
+          <option value="3">3 to 4</option>
+          <option value="4">5 to 8</option>
+          <option value="5">more than 8</option>
+            </select>
+          </div>
+          
+          <div class="input-box">
+            <span class="details">base policy</span>
+            <select name="k" class="form-control" id="k" required>
+              <option value="" selected="" disabled="" hidden="">Select an Option</option>
+              
+              <option value="1">All Perils</option>
+              <option value="2">Collision</option>
+              <option value="3">Liability</option>>
+            </select>
+          </div>
+
+
+  
+        
+        
+
+        
+        </div>
+        <div class="button">
+
+          <div id="spinner" style="display:none"></div>
+          <button id="button" value="Predict" type="submit">Predict</button>
+
+        </div>
+      </form>
+    </div>
+  </div>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+
+  <script>
+    $(() => {
+      $('#button').on('click', () => {
+        $('#spinner').show()
+        setTimeout(() => {
+          $('#spinner').hide();
+
+        }, 10000)
+      })
+    })
+
+
+
+
+  </script>
+  <script>
+
+    function validateTheForm() {
+      var v1 = (document.getElementById('age').value);
+  
+      if (isNaN(v1) || (v1 < 18 || v1> 99)) {
+        alert('Enter valid Age');
+        document.getElementById('age').focus();
+        return false;
+      } else {
+        return true;
+      }
+    }
+
+  </script>
+</body>

@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+
+<html lang="en" dir="ltr">
+    <head>
+      <meta charset="UTF-8">
+      <title> Responsive Registration Form | CodingLab </title>
+      <link rel="stylesheet" type= "text/css" href="{{ url_for ('static', filename='styles/style1.css')}}">
+
+       <meta name="viewport" content="width=device-width, initial-scale=1.0">
+       <style>
+        /* Center the loader */
+#loader {
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  z-index: 1;
+  width: 120px;
+  height: 120px;
+  margin: -76px 0 0 -76px;
+  border: 16px solid #f3f3f3;
+  border-radius: 50%;
+  border-top: 16px solid #3498db;
+  -webkit-animation: spin 2s linear infinite;
+  animation: spin 2s linear infinite;
+}
+
+@-webkit-keyframes spin {
+  0% { -webkit-transform: rotate(0deg); }
+  100% { -webkit-transform: rotate(360deg); }
+}
+
+@keyframes spin {
+  0% { transform: rotate(0deg); }
+  100% { transform: rotate(360deg); }
+}
+
+/* Add animation to "page content" */
+.animate-bottom {
+  position: relative;
+  -webkit-animation-name: animatebottom;
+  -webkit-animation-duration: 1s;
+  animation-name: animatebottom;
+  animation-duration: 1s
+}
+
+@-webkit-keyframes animatebottom {
+  from { bottom:-100px; opacity:0 } 
+  to { bottom:0px; opacity:1 }
+}
+
+@keyframes animatebottom { 
+  from{ bottom:-100px; opacity:0 } 
+  to{ bottom:0; opacity:1 }
+}
+
+#myDiv {
+  display: none;
+  text-align: center;
+}
+
+       </style>
+     </head>
+
+     <body onload="myFunction()" style="margin:0;">
+            <nav>
+              <div class="menu">
+                <div class="logo">
+                  <a href="home">Insurance Fraud Detection</a>
+                </div>
+                <ul>
+                  <li><a href="home">Home</a></li>
+                  <li><a href="#">About</a></li>
+                  <li><a href="index">Prediction</a></li>
+          
+                </ul>
+              </div>
+            </nav>
+            <div class="img"></div>
+            <div class="container">
+
+
+
+
+              <div id="loader"></div>
+
+              <div style="display:none;" id="myDiv" class="animate-bottom">
+                <h2 id="result">{{prediction}}</h2>
+                <div class="ImageContainer">
+                  
+                </div>
+              </div>
+              
+              <script>
+              var myVar;
+              
+              function myFunction() {
+                myVar = setTimeout(showPage, 3000);
+              }
+              
+              function showPage() {
+                document.getElementById("loader").style.display = "none";
+                document.getElementById("myDiv").style.display = "block";
+                var url1 = "https://thumbs.dreamstime.com/z/genuine-sticker-genuine-sticker-genuine-square-sign-genuine-154053174.jpg"
+                var url2 = "https://thumbs.dreamstime.com/b/fraud-sticker-fraud-sticker-fraud-square-sign-fraud-153829920.jpg"
+                var image = new Image();
+
+                
+                var a=document.getElementById("result").value;
+                console.log(a)
+                  if (a === "Insurance Claim is Genuine") {
+                    image.src = url1;
+                  }else{
+                    image.src = url2;
+                  }
+                document.getElementsByClassName("ImageContainer")[0].appendChild(image);
+                
+              }
+              </script>
+            </div>
+
+           
+          </div>
+        </div>
+                  
+            <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+
+          
+          </body>
